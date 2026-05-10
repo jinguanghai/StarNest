@@ -1,0 +1,122 @@
+{
+  "jiedian": {
+    "yunxingti": {
+      "baji": {
+        "yang": 0.5,
+        "yin": 0.5,
+        "biao": 0.5,
+        "li": 0.5,
+        "han": 0.5,
+        "re": 0.5,
+        "xu": 0.5,
+        "shi": 0.5
+      },
+      "chuangjian": "2026-05-09T18:08:19.817199",
+      "mingcheng": "运行体",
+      "juese": "zhixing",
+      "zuihou_xintiao": "1778321299.8172",
+      "zhuangtai": "jihuo",
+      "zuozhi_mode": "active",
+      "zuozhi_qiehuan_time": "1778321299.9490206"
+    },
+    "bianchengti": {
+      "baji": {
+        "yang": 0.03333333333333333,
+        "yin": 0.5,
+        "biao": 0.5,
+        "li": 0.5,
+        "han": 0.5,
+        "re": 0.5,
+        "xu": 0.05,
+        "shi": 0.5
+      },
+      "chuangjian": "2026-05-09T18:08:19.817199",
+      "mingcheng": "编程体",
+      "juese": "xiufu",
+      "zuihou_xintiao": "1778321300.1991816",
+      "zhuangtai": "jihuo",
+      "zuozhi_mode": "active",
+      "zuozhi_qiehuan_time": "1778321299.9490206",
+      "baji_gengxin": "2026-05-09T18:08:20.195177"
+    },
+    "fuzhiti": {
+      "baji": {
+        "yang": 0.5,
+        "yin": 0.5,
+        "biao": 0.5,
+        "li": 0.5,
+        "han": 0.5,
+        "re": 0.5,
+        "xu": 0.5,
+        "shi": 0.5
+      },
+      "chuangjian": "2026-05-09T18:08:19.817199",
+      "mingcheng": "复制体",
+      "juese": "yanzheng",
+      "zuihou_xintiao": "1778321299.8172",
+      "zhuangtai": "jihuo",
+      "zuozhi_mode": "active",
+      "zuozhi_qiehuan_time": "1778321299.9490206"
+    }
+  },
+  "bian": [
+    [
+      "yunxingti",
+      "bianchengti",
+      {
+        "wuxing": "ke",
+        "miaoshu": "运行体克编程体"
+      }
+    ],
+    [
+      "bianchengti",
+      "yunxingti",
+      {
+        "wuxing": "sheng",
+        "miaoshu": "编程体生运行体"
+      }
+    ],
+    [
+      "bianchengti",
+      "fuzhiti",
+      {
+        "wuxing": "sheng",
+        "miaoshu": "编程体生复制体"
+      }
+    ],
+    [
+      "fuzhiti",
+      "bianchengti",
+      {
+        "wuxing": "ke",
+        "miaoshu": "复制体克编程体"
+      }
+    ]
+  ],
+  "wenti_liebiao": {
+    "yunxingti": [],
+    "bianchengti": [
+      {
+        "miaoshu": "第五境基线归档·迭代#0",
+        "leixing": "jixian_guidang",
+        "laiyuan": "diwujing",
+        "shijian_float": 1778321300.1951776,
+        "xiangqing": {
+          "santi_wenti": 0,
+          "santi_xiufu": 0,
+          "jiyi": 285,
+          "jineng": 8,
+          "shijian": "2026-05-09T18:08:20.195177"
+        },
+        "shijian": "2026-05-09T18:08:20.195177"
+      }
+    ],
+    "fuzhiti": []
+  },
+  "xiufu_lishi": {
+    "yunxingti": [],
+    "bianchengti": [],
+    "fuzhiti": []
+  },
+  "baocun_shijian": "2026-05-09T18:08:20.199181"
+}

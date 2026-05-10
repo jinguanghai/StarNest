@@ -1,0 +1,52 @@
+{
+  "zuihou_zhenduan": {
+    "shijian": "2026-05-07T11:02:21.728543",
+    "asar_lujing": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar",
+    "opencode_banben": "1.14.39",
+    "asar_cunzai": true,
+    "asar_daxiao": 107365201,
+    "asar_wenjian_shu": 6642,
+    "yida_buding": {
+      "watcher_yizhi": true,
+      "gengxin_jinyong": true
+    },
+    "beifen_shu": 3,
+    "zuijin_beifen": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar.backup.20260507_102136",
+    "shengji_lishi": {
+      "zuihou_zhenduan": {
+        "shijian": "2026-05-07T10:31:24.881837",
+        "asar_lujing": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar",
+        "opencode_banben": "1.14.39",
+        "asar_cunzai": true,
+        "asar_daxiao": 107365201,
+        "asar_wenjian_shu": 6642,
+        "yida_buding": {
+          "watcher_yizhi": true,
+          "gengxin_jinyong": true
+        },
+        "beifen_shu": 3,
+        "zuijin_beifen": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar.backup.20260507_102136",
+        "shengji_lishi": {
+          "zuihou_zhenduan": {
+            "shijian": "2026-05-07T10:29:35.142041",
+            "asar_lujing": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar",
+            "opencode_banben": "1.14.39",
+            "asar_cunzai": true,
+            "asar_daxiao": 105028829,
+            "asar_wenjian_shu": 6642,
+            "yida_buding": {
+              "watcher_yizhi": false,
+              "gengxin_jinyong": true
+            },
+            "beifen_shu": 1,
+            "zuijin_beifen": "C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode\\resources\\app.asar.backup.20260507_102136",
+            "shengji_lishi": {
+              "cishu": 0,
+              "lishi": []
+            }
+          }
+        }
+      }
+    }
+  }
+}

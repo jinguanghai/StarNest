@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+.quarantine/
+.env
+*.backup
+*_temp.py

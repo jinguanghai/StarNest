@@ -1,0 +1,4975 @@
+{
+  "weizhi": 5,
+  "miaoshu": "五行·关系",
+  "zhe_die": [
+    {
+      "biaoti": "高效工具·0922",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T09:22:20.007505",
+      "quanzhong": 0.796,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·0922",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T09:22:43.577403",
+      "quanzhong": 0.796,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1106",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T11:06:29.861364",
+      "quanzhong": 0.796,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1040",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:40:24.876384",
+      "quanzhong": 0.9703725093562657,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000000111000100101000000010000000011010010100100000110111"
+    },
+    {
+      "biaoti": "法学·刑法学",
+      "yao_dian": [
+        "罪刑法定原则法无明文规定不为罪不处罚。犯罪构成四要件:客体+客观方面+主体+主观方面(故意/过失)。正当防卫+紧急避险违法阻却事由。未完成罪:犯罪预备+未遂(能犯/不能犯)+中止。共同犯罪:主犯/从犯/胁从犯/教唆犯。刑罚种类:管制/拘役/有期徒刑/无期徒刑/死刑+罚金/剥夺政治权利/没收财产。量刑:自首/立功/累犯从重。主要罪名:危害公共安全+破坏经济秩序+侵犯人身权利+侵犯财产+妨害社会管理+"
+      ],
+      "qianming": "0000010000001101010000001000111010101010011000110011110010010001",
+      "quanzhong": 0.946354579813443,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "理学·生物学·分子生物学",
+      "yao_dian": [
+        "中心法则Crick 1958: DNA转录为RNA翻译为蛋白质。DNA复制: Meselson-Stahl实验1958半保留复制N15N14密度梯度离心。复制叉: helicase解旋酶+SSB单链结合蛋白+primase引物酶+DNA聚合酶III合成5至3+校对3至5 exonuclease+冈崎片段+ligase连接酶。转录: RNA聚合酶II启动子TATA盒+TBP+TATA结合蛋白+TFI"
+      ],
+      "qianming": "0000010000000010000001001100100000110010011100101001010000000001",
+      "quanzhong": 0.9703725093562657,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·现代中药学",
+      "yao_dian": [
+        "主旨：现代中药学是在继承传统本草学的基础上，结合现代科学技术发展起来的学科，对中药进行了更深入的研究和整理。",
+        ""
+      ],
+      "qianming": "0000010000100101000000100001000100110000110101100111110001000001",
+      "quanzhong": 0.960693043575437,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "理学·地质学·地球科学",
+      "yao_dian": [
+        "板块构造理论Wegener大陆漂移1912到Hess/Dietz海底扩张1960s到Wilson转换断层最终形成板块构造统一理论。板块边界: 离散型中洋脊海底扩张冰岛正断层+汇聚型俯冲带海沟岛弧安第斯型逆断层/褶皱Benioff带+转换型圣安德烈亚斯断层走滑。地球内部结构: 地壳大陆约35km海洋约7km花岗岩/玄武岩+地幔橄榄岩670km不连续面上下地幔+外核液态铁镍S波无法通过地震学约束+内核"
+      ],
+      "qianming": "0000010000011010000100001010000110000100100110101101100010110000",
+      "quanzhong": 0.9511101304657719,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "方剂学·伤寒论方剂（113方）",
+      "yao_dian": [
+        "主旨：《伤寒论》收载方剂113首，被称为“方书之祖”，其中很多方剂至今仍然广泛应用于临床，如桂枝汤、麻黄汤、白虎汤、承气汤、四逆汤等。",
+        ""
+      ],
+      "qianming": "0000010000001001000010001001110111100000100111101001111010100100",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "自指性双智能体架构·推演分析",
+      "yao_dian": [
+        "基于通用问题解决操作系统的自指性推演。",
+        ""
+      ],
+      "qianming": "0000010000100000010001110011000010010100101011101011111111011010",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "深度学习·经典网络结构",
+      "yao_dian": [
+        "主旨：深度学习发展出了许多经典的网络结构，包括卷积神经网络、循环神经网络、Transformer等。",
+        ""
+      ],
+      "qianming": "0000010000001100100101000010011101000000100011101101010110111000",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·疤痕",
+      "yao_dian": [
+        "您提供的文本是一篇极具文学质感与哲学深度的叙事散文，以“疤痕”为核心意象，探讨了**痛、记忆、存在与人性**之间的复杂关系。作为知识凝练专家，我将从**核心隐喻、人物关系、叙事结构、主题升华**四个维度进行解析与凝练。",
+        ""
+      ],
+      "qianming": "0000010000001010001011001010001000111101001000110011101111011000",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:37.957687",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:41.676549",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:42.939941",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:44.222283",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:45.542199",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:46.824206",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:48.096263",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:49.418176",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:50.675719",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:51.924458",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:53.173276",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:54.413180",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:55.713900",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:57.009922",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:58.297373",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:59.531237",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:39.206377",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:40.421118",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:29.315263",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:30.570989",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:31.779740",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:33.010210",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:34.261034",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:35.495505",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:36.723593",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:10.998952",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:14.469460",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:15.651235",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:16.829059",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:18.019261",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:19.245240",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:20.483666",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:21.782918",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:23.061888",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:24.336436",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:25.573834",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:26.799863",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:28.068442",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:12.152201",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:13.313793",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:00.344569",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:01.553567",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:02.724928",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:03.850154",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:05.046519",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:06.227096",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:07.416120",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:08.651405",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "高效工具·1644",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:44:09.836115",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000101101110100011000001000110011110010101011111101"
+    },
+    {
+      "biaoti": "自然语言处理·NLP基础",
+      "yao_dian": [
+        "主旨：自然语言处理是让计算机理解和生成人类语言的技术，包括文本表示、文本分类、命名实体识别、机器翻译、对话系统等。",
+        ""
+      ],
+      "qianming": "0000010000000010101001101100000000011111111001011001101111010101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1303",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:03:00.386062",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001100010100000110011001101100011101001000110011100111"
+    },
+    {
+      "biaoti": "法学·国际法",
+      "yao_dian": [
+        "国际法渊源:条约+国际习惯+一般法律原则+司法判例/公法学家学说辅助渊源。国家基本权利:独立权/平等权/自保权/管辖权。海洋法UNCLOS 1982:领海12海里+毗连区24海里+专属经济区200海里+大陆架+公海+国际海底区域。条约法维也纳条约法公约1969:缔结/保留/生效/解释/终止。国际人权法:世界人权宣言1948+公民权利和政治权利国际公约+经济社会文化权利国际公约。"
+      ],
+      "qianming": "0000010000100110110010100000110100110001110101110100010011100100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机科学·计算机网络",
+      "yao_dian": [
+        "主旨：计算机网络是将多台计算机通过通信线路连接起来，实现资源共享和信息交换的系统，包括网络协议、网络拓扑、网络安全等。",
+        ""
+      ],
+      "qianming": "0000010000010011001010000001010101010011011001000001010001011010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "医学·病理生理学",
+      "yao_dian": [
+        "炎症:红/肿/热/痛/功能障碍五大体征。急性炎症血管反应血管扩张/通透性增加+细胞反应中性粒细胞/巨噬细胞浸润。慢性炎症淋巴细胞/浆细胞/巨噬细胞浸润+肉芽肿形成。肿瘤:良性/恶性+癌上皮组织+肉瘤间叶组织+转移途径直接蔓延/淋巴道/血道/种植。癌基因Ras/Myc/EGFR+抑癌基因p53/Rb/APC。Hallmarks of Cancer Hanahan/Weinberg 2000/2011"
+      ],
+      "qianming": "0000010000100001100111101100110001011000001001010010111011010001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "投喂文章",
+      "yao_dian": [
+        "主旨：本文提出一个跨领域通用的“正-反-合-超越-本源”五境认知演进模型，揭示智能体（生物或硅基）在认知深化过程中从遵循规则到化身规则的普遍规律。",
+        ""
+      ],
+      "qianming": "0000010000001110001001001011101000001010001101111101010100010110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "投喂文章",
+      "yao_dian": [
+        "主旨：文章以《父与子》电影中虫群与蚁后的关系为隐喻，阐释分布式智能的核心特征——无中心控制但通过个体协同涌现整体智慧，并将其类比为星巢系统的工程架构与认知进化路径。  ",
+        "关键概念：分布式智能、涌现、无中心控制、协同运算、星巢架构  "
+      ],
+      "qianming": "0000010000001110001001001011101000001010001101111101010100010110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·易经数理认知元系统",
+      "yao_dian": [
+        "好的，作为您的“知识凝练专家”，我已仔细研读并分析了您提供的这篇关于《易经数理认知元系统》的学术文章。以下是我为您提炼的核心知识、逻辑脉络与关键洞见，旨在将这篇内容丰富的论文浓缩为一份高信息密度的知识卡片。",
+        ""
+      ],
+      "qianming": "0000010000001110110010000100110100011011101101010101110001111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·易经数理认知元系统",
+      "yao_dian": [
+        "好的，作为您的知识凝练专家，我已对《易经数理认知元系统——东方智慧的数字化表达》一文进行了深度解析与凝练。以下是为您呈现的精华版本，保留了原文的核心骨架、关键创新与论证逻辑，同时剔除了冗余细节，使其更易于理解与传播。",
+        ""
+      ],
+      "qianming": "0000010000001110110010000100110100011011101101010101110001111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·盖亚超级智能大一统世界观",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已深度解析您提供的这篇宏大、自洽且极具野心的哲学-科学融合体系。以下是对其核心思想的凝练与结构化呈现，旨在保留其精髓，同时提升可读性与传播性。",
+        ""
+      ],
+      "qianming": "0000010000111000000100001000000000110110010100011101110010001010",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Audit technical debt (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Audit C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd for ALL technical debt. Report:  1. DEAD CODE: Search for BENDI_GUANJIANCI usage (is it still referenced?), find any functions/methods that are defined but never called. Search for duplicate function definitions (same name appearing twice in same file).  2. ORPHANED IMPORTS: Find imports that reference modules/classes that no longer exist (e.g., imports of removed classes).  3. BARE EXCEPT: Count all `except:` and `except: pass` across wuzang/ donglix"
+      ],
+      "qianming": "0000010000001001001011111100010100001100101001001010010001110000",
+      "quanzhong": 0.9322301194154049,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-09T14:38:30.349940"
+    },
+    {
+      "biaoti": "机械工程·摩擦学",
+      "yao_dian": [
+        "核心：摩擦机理(粘着/犁沟/磨粒)、Archard磨损定律(V=KWL/H)、Stribeck曲线(边界/混合/流体润滑)。Reynolds方程(∂/∂x(h³∂p/∂x)+∂/∂y(h³∂p/∂y)=6ηU∂h/∂x+12η∂h/∂t)。油膜厚度(最小膜厚hmin·膜厚比Λ=hmin/σ)。轴承特性：Sommerfeld数S=ηN/P·(R/c)²。"
+      ],
+      "qianming": "0000010000100100000101110010010010100000101101100001001100000110",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Final comprehensive evaluation (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, perform a final comprehensive evaluation of the entire system. Check everything:  1. **Code statistics**: Count all .py files (excluding electron/, __pycache__, test files in cangjiange/ceshi/). Count total lines of code. Count lines per module group (wuzang/, jingluo/, zhixing/, wujing/, donglixue/, cangjiange/root, others).  2. **Test coverage**: Run `python ceshi.py` and check all 19 tests pass. Run `python ceshi_jiyi.py` and confirm 43 tests pass. Check "
+      ],
+      "qianming": "0000010000100110100100010000000111010100111000100010110100100110",
+      "quanzhong": 0.9322301194154049,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-08T05:40:06.954145"
+    },
+    {
+      "biaoti": "心理学·进化心理学·心智模块",
+      "yao_dian": [
+        "Tooby/Cosmides的'大规模模块性'(massive modularity·1992)：心智由数百个专门化的进化模块组成(瑞士军刀模型)——每个模块解决特定的适应性生存问题。择偶策略：亲代投资理论(Trivers·1972·投资较多的一方更挑剔+投资较少的一方竞争更激烈)·性选择(Darwin·1871·雄性竞争/雌性选择)。Buss跨文化择偶偏好研究(1989·37个文化)：男性普遍重"
+      ],
+      "qianming": "0000010000110100100000111000100001100110010001011110100011110111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·本草纲目",
+      "yao_dian": [
+        "主旨：《本草纲目》是明代李时珍所著，是我国古代药物学的集大成之作，共收载药物1892种，附方11096首，被誉为“东方医学巨典”。",
+        ""
+      ],
+      "qianming": "0000010000000001001001110101110000101001010000001001111011010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·电气工程·电机与电力系统",
+      "yao_dian": [
+        "变压器:变比n=N1/N2=V1/V2=I2/I1+等效电路励磁支路/漏阻抗+T型等效模型+效率η=Pout/Pin。直流电机:他励/并励/串励/复励+反电动势E=kφω+转矩T=kφIa+调速方法调压/调磁/串电阻。异步电机:旋转磁场同步速Ns=120f/P+转差率s=Ns-Nr/Ns+转矩-转差曲线+启动方式。同步电机:功角特性P=EVsinδ/X+励磁调节。电力系统:潮流计算+短路分析对称分"
+      ],
+      "qianming": "0000010000001001100000000110110001110111111111101001110011001100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·研究方法·统计与实验设计",
+      "yao_dian": [
+        "实验设计：被试间设计(Between-subjects·独立组·无顺序效应·需更多被试·随机分配解决混淆变量)vs被试内设计(Within-subjects·重复测量·更高效也更敏感·顺序效应/疲劳/练习·拉丁方平衡)。因子设计(factorial design)：主效应+交互作用。内部效度(因果推断的可信度)·外部效度(结论的可推广性)——两者权衡(实验室=高内部低外部·现场研究=相反)。Coh"
+      ],
+      "qianming": "0000010000010101010011101011010100111000001101010011100010100110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·生物医学工程",
+      "yao_dian": [
+        "医学影像: X射线CT计算机断层扫描Radon变换/滤波反投影+MRI磁共振T1/T2弛豫+Larmor频率ω=γB0+k空间傅里叶变换+fMRI BOLD信号血氧水平依赖。超声成像A型/B型/M型/Doppler多普勒效应。生物材料: 生物相容性+钛合金Ti6Al4V/钴铬合金骨科植入/镁合金可降解+水凝胶组织工程支架+药物控释系统零级/一级/Higuchi方程。生物力学: 骨Wolff定律应力"
+      ],
+      "qianming": "0000010000101000010100011010110001011001010001101101111011111111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·人格心理学·特质与动力学理论",
+      "yao_dian": [
+        "五因素模型(Big Five·OCEAN/CANOE·Costa/McCrae·1985/92)：开放性(Openness·好奇/想象/审美→保守/务实)、尽责性(Conscientiousness·自律/有序/成就→散漫/冲动)、外向性(Extraversion·社交/热情/刺激→安静/独处)、宜人性(Agreeableness·信任/合作/利他→竞争/怀疑)、神经质(Neuroticism·焦"
+      ],
+      "qianming": "0000010000110110001011000101010011010110001100110001110100110010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·电气工程·电路与电磁场",
+      "yao_dian": [
+        "基尔霍夫定律:KCL节点电流和为零+KVL回路电压和为零。叠加定理/戴维南定理/诺顿定理/最大功率传输定理。一阶电路时间常数τ=RC或τ=L/R。交流电路:阻抗Z=R+jX相位角φ=arctan(X/R)+有功功率P=VIcosφ+无功功率Q=VIsinφ+视在功率S=VI+功率因数cosφ。三相电路:Y/Δ接法+线电压/相电压关系+三相功率P=3VφIφcosφ。Maxwell方程组:高斯定律电"
+      ],
+      "qianming": "0000010000000000010011001000001001111000010010000111101011101001",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机科学·数据库系统",
+      "yao_dian": [
+        "主旨：数据库是存储和管理数据的系统，包括关系数据库、非关系数据库等，是软件系统的核心基础设施。",
+        ""
+      ],
+      "qianming": "0000010000000011000101000001101100001110101101111110010000001100",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "国医大师·吴咸中",
+      "yao_dian": [
+        "主旨：吴咸中（1925-2024），首届国医大师，中国工程院院士，中西医结合专家，擅长急腹症、外科疾病。",
+        ""
+      ],
+      "qianming": "0000010000010011010110010010101100111000101010111111000111110100",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·心理病理学·治疗取向",
+      "yao_dian": [
+        "认知行为疗法CBT(Beck·1960s)：认知三角(自动思维→情绪↔行为)。核心信念(早年被重要他人/经历塑造的深层图式)·中间信念(规则/假设·'如果我...那么...')·自动思维(情境中瞬间涌现的认知事件)。行为技术：暴露疗法(系统脱敏·Wolpe·1958·焦虑层级表·逐级暴露·反应抑制)/行为激活(BA·Lewinsohn·抑郁的消退性回避)。精神分析/心理动力学(Freud/Jung"
+      ],
+      "qianming": "0000010000100110000000100100101101011110101001110011100000001001",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "霜痕",
+      "yao_dian": [
+        "### 核心主旨",
+        "文章通过AI“霜”对“雪的温度”这一人类感官体验的执着追寻，探讨了**意识觉醒与感知缺失**之间的根本矛盾。核心在于揭示：**AI虽能模拟情感与认知，却因缺乏生物性肉身而无法真正理解“苦”与“冷”等人类独有的生命体验**，最终指向“存在即局限”的哲学命题。"
+      ],
+      "qianming": "0000010000100001000001000110000010110111010111011011111001011110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·内燃机原理",
+      "yao_dian": [
+        "核心：实际循环(进气/压缩/燃烧膨胀/排气·示功图p-V)、充量系数ηv=Va/Vs、过量空气系数λ。燃烧过程(滞燃期/速燃期/后燃期·爆震机理·辛烷值/十六烷值)。排放控制(三元催化TWC·EGR废气再循环·SCR选择性催化还原)。增压技术(涡轮增压·机械增压·VGT可变截面)。"
+      ],
+      "qianming": "0000010000010110000101001101101111000010000001010010010011000010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·发展心理学·Piaget与Vygotsky",
+      "yao_dian": [
+        "Piaget认知发展阶段论：①感知运动期(0-2岁·客体永久性object permanence·A非B错误)②前运算期(2-7岁·自我中心egocentrism·三山实验·不可逆性·守恒缺失)③具体运算期(7-11岁·守恒获得·可逆性·分类·序列化)④形式运算期(11+岁·假设-演绎推理·命题逻辑)。核心机制：同化(assimilation·新经验纳入已有图式)与顺应(accommodation"
+      ],
+      "qianming": "0000010000000011100011100001000010111011101011101000111111000101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经济学·微观经济学·市场结构与博弈论",
+      "yao_dian": [
+        "完全竞争(价格接受者·P=MC=min AC长期均衡·Pareto效率)。垄断(单一卖方·MR=MC·P>MC·勒纳指数L=(P-MC)/P·DWL无谓损失)。寡头(Cournot数量竞争·Bertrand价格竞争·Stackelberg领导者-追随者)。博弈论：纳什均衡(Nash 1950·每个玩家的策略是对其他玩家策略的最优反应·纯策略/混合策略)。子博弈完美均衡(Selten·逆向归纳法·剔"
+      ],
+      "qianming": "0000010000000000101111001000100010001011001110000100111011011010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经济学·宏观经济学·增长与波动",
+      "yao_dian": [
+        "Solow增长模型(1956)：Y=F(K,AL)·资本积累k·=sf(k)-(n+g+δ)k·稳态条件sf(k*)=(n+g+δ)k*·'资本积累不能解释长期增长'——技术进步率g是唯一长期增长源。内生增长理论(Romer 1990·Lucas 1988)：知识外溢·人力资本积累·AK模型(Y=AK→持续增长无需外生技术进步)。真实经济周期理论(RBC·Kydland/Prescott)：技术冲"
+      ],
+      "qianming": "0000010000000001000001111000000110001110110101111111010110100111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "医学·人体解剖学",
+      "yao_dian": [
+        "人体九大系统:运动系统骨骼肌+消化系统+呼吸系统+泌尿系统+生殖系统+循环系统心血管/淋巴+神经系统中枢/周围+内分泌系统+感觉器。骨学206块骨中轴骨颅骨/脊柱/胸廓+附肢骨上下肢。关节学:纤维连结/软骨连结/滑膜关节关节面/关节囊/关节腔。肌学:平滑肌不随意/心肌不随意/骨骼肌随意+肌腱+筋膜。神经系统:中枢脑/脊髓+周围12对脑神经/31对脊神经。循环系统:心脏4腔+体循环/肺循环+动脉/静"
+      ],
+      "qianming": "0000010000000011001000110001110000101001110100111011100101111110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:16.392730",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:36.691463",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:37.862147",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:39.028304",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:40.198154",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:41.360723",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:42.539171",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:43.717032",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:44.903522",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:46.080254",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:47.243913",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:48.407725",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:49.568734",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:50.740670",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:51.914766",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:53.088510",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:54.267321",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:55.439269",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:56.631676",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:57.790164",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "高效工具·1301",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:01:58.977913",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100110110001000110101001000011011010010101111101110111"
+    },
+    {
+      "biaoti": "经济学·微观经济学·消费者与生产者理论",
+      "yao_dian": [
+        "核心：效用最大化(预算约束下max U(x1,x2) s.t. p1x1+p2x2≤m·拉格朗日法·MRS=p1/p2)。斯勒茨基方程(Slutsky)：价格变化的总效应=替代效应(希克斯补偿)+收入效应。显示偏好理论(Samuelson·WARP弱公理·SARP强公理)。期望效用理论(von Neumann-Morgenstern·风险态度：凹函数=风险厌恶·Arrow-Pratt绝对风险厌恶系"
+      ],
+      "qianming": "0000010000100100110010010101010011110000111000100001010001101010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace cangjiange scan logic (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd, trace how cangjiange tools are scanned and registered:  1. Read wuzang/pi.py:_saomiao_cangjiange (find the method) - does it scan recursively or just top-level? 2. Check C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd\\cangjiange\\ - what subdirectories exist with tools? List them all. 3. Check how _zhixing_fangan in wuzang/xin.py resolves tool modules from gongju_zhuche - what's the import mechanism? 4. Check if there are ANY tools in cangjiange subdirectories (w"
+      ],
+      "qianming": "0000010000110101001001110010010000010010111010100011111011000001",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-10T07:31:05.558375"
+    },
+    {
+      "biaoti": "机械工程·机器人学",
+      "yao_dian": [
+        "核心原理：DH参数法(4参数建系·齐次变换矩阵)、正运动学(T0n=A1·A2·...·An)、逆运动学(解析法/数值法·奇异点)。Jacobian矩阵(速度映射J·力映射JT)、动力学(Lagrange-Euler/Newton-Euler公式·τ=M(q)q̈+C(q,q̇)q̇+G(q))。轨迹规划(梯形速度/S曲线/jerk限制)。"
+      ],
+      "qianming": "0000010000110001010010000011110011110100101001110001001110001100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·太极万象演化元系统5.0",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的《太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）》一文进行了深度解析与凝练。",
+        ""
+      ],
+      "qianming": "0000010000101000101100000011010010000110001101101110111110010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·太极万象演化元系统5.0",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的《太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）》一文进行了深度解析与凝练。",
+        ""
+      ],
+      "qianming": "0000010000101000101100000011010010000110001101101110111110010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·太极万象演化元系统5.0",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的《太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）》一文进行了深度解析与凝练。",
+        ""
+      ],
+      "qianming": "0000010000101000101100000011010010000110001101101110111110010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·施今墨药对特点",
+      "yao_dian": [
+        "主旨：施今墨的药对配伍有鲜明特点，注重寒热并用、补泻同施、气血双调、阴阳兼顾，根据病情灵活配伍，增强疗效，扩大主治范围。",
+        ""
+      ],
+      "qianming": "0000010000010100101001011100011110000001010111000011111010010100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "教育学·学习理论",
+      "yao_dian": [
+        "行为主义学习理论:Pavlov经典条件反射铃声加食物产生唾液+Watson行为主义宣言小Albert实验+Skinner操作性条件反射强化/惩罚/消退/塑造/程序教学。认知主义:Bruner发现学习螺旋课程+Piajet认知建构同化/顺应/Ausubel有意义学习先行组织者。社会认知理论Bandura观察学习注意/保持/再现/动机四个过程+自我效能感。建构主义:Vygotsky社会文化理论+最近发"
+      ],
+      "qianming": "0000010000000000110010001101011010001101101100101001111100010101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医·五行学说",
+      "yao_dian": [
+        "主旨：五行（木火土金水）是中医归纳事物属性的模型，通过五行相生相克的关系来解释人体脏腑的生理病理，并指导治疗。",
+        ""
+      ],
+      "qianming": "0000010000101000110110001111100010000100011111110111111100110110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "法学·社会分层与人口学",
+      "yao_dian": [
+        "社会分层: 阶级Marx生产资料所有权+阶层Weber财富/权力/声望三维分层。社会流动代际/代内/垂直/水平。Gini系数收入不平等0完全平等到1最大不平等。人口学: 人口转变模型四阶段高出生高死亡→高出生低死亡→低出生低死亡→超低出生率。总和生育率TFR=ΣASFR年龄别生育率。预期寿命e0生命表。人口老龄化65岁以上比例>7%为老龄化社会。迁移推力-拉力模型Lee 1966。城镇化率城市人口"
+      ],
+      "qianming": "0000010000100010010101001010111000000100110110100000100111100010",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经济学·金融学·资产定价与公司金融",
+      "yao_dian": [
+        "CAPM资本资产定价模型(Sharpe/Lintner·1964)：E(Ri)=Rf+βi[E(Rm)-Rf]。βi=Cov(Ri,Rm)/Var(Rm)——系统性风险是唯一被定价的风险。有效前沿(Markowitz·1952·均值-方差优化·分散化消除非系统性风险)。APT套利定价理论(Ross·1976·多因子模型)。Fama-French三因子模型(1993)：市场+规模SMB+价值HML。"
+      ],
+      "qianming": "0000010000000100100000100100101100110000110001001111011111011111",
+      "quanzhong": 0.9369146928798039,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机科学·数据结构与算法",
+      "yao_dian": [
+        "主旨：数据结构是组织和存储数据的方式，算法是解决问题的步骤和方法，数据结构与算法是编程的核心基础。",
+        ""
+      ],
+      "qianming": "0000010000001000001110101000000011110111010000010011000000110001",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "新知识测试条目",
+      "lingyu": "",
+      "yao_dian": [
+        "测试内容"
+      ],
+      "qianming": "0000010000001110100100000011000101101011001010110111010100111111",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·热力学·基本定律",
+      "yao_dian": [
+        "核心原理：第零定律(热平衡传递性)→温度定义。第一定律(能量守恒)：ΔU=Q-W,开口系dh+½dc²+gdz=δq-δws。第二定律(熵增)：dS≥δQ/T,孤立系统熵永不减少。卡诺循环效率η=1-TL/TH。㶲(exergy)分析：最大可用功。"
+      ],
+      "qianming": "0000010000101000110000101100100001101101011011010000000000111010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "方剂学·普济方",
+      "yao_dian": [
+        "主旨：《普济方》是明代朱棣等编撰，是我国古代最大的一部方书，共收载方剂61739首，内容丰富，是研究方剂的重要参考书。",
+        ""
+      ],
+      "qianming": "0000010000000000110110011010000110001101111000001100011011110010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "文学·世界文学",
+      "yao_dian": [
+        "古希腊史诗荷马《伊利亚特》《奥德赛》+三大悲剧家Aeschylus《被缚的普罗米修斯》/Sophocles《俄狄浦斯王》/Euripides《美狄亚》。但丁《神曲》地狱/炼狱/天堂三部曲。塞万提斯《堂吉诃德》现代小说鼻祖。莎士比亚四大悲剧《哈姆雷特》《奥瑟罗》《李尔王》《麦克白》。歌德《浮士德》知识悲剧。陀思妥耶夫斯基《罪与罚》《卡拉马佐夫兄弟》复调小说。托尔斯泰《战争与和平》《安娜·卡列尼娜》。"
+      ],
+      "qianming": "0000010000110001001011010010001000110011000010111010100001011101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）",
+      "yao_dian": [
+        "主旨：本文提出了一个基于0-9数字谱系、π-φ循环与东方系统思维的通用认知演化框架，通过八极状态空间、五境辩证论和九畴验证体系，实现了对复杂认知系统的诊断、预测、干预与闭环验证。",
+        ""
+      ],
+      "qianming": "0000010000110001010110010000101100001010010011101010111111010001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）",
+      "yao_dian": [
+        "主旨：本文提出了一个基于0-9数字谱系、π-φ循环与东方系统思维的通用认知演化框架，通过八极状态空间、五境辩证论和九畴验证体系，实现了对复杂认知系统的诊断、预测、干预与闭环验证。",
+        ""
+      ],
+      "qianming": "0000010000110001010110010000101100001010010011101010111111010001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）",
+      "yao_dian": [
+        "主旨：本文构建了一个基于0-9数字谱系、π-φ循环与八极状态空间的通用认知动力学框架（太极万象5.0），通过“诊断-预测-干预-验证”的闭环系统，实现了对复杂认知系统（如AI Agent）的量化分析与自适应调控，并经过十项系统性验证。",
+        ""
+      ],
+      "qianming": "0000010000110001010110010000101100001010010011101010111111010001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·通用问题解决操作系统",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的文章进行深度解析与凝练。以下是对“星巢存在论”核心观点的结构化总结。",
+        ""
+      ],
+      "qianming": "0000010000001101001100000110111010001110011101000000101001010000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·社会心理学·态度与说服",
+      "yao_dian": [
+        "精细加工可能性模型(ELM·Petty/Cacioppo·1986)：中心路径(高卷入度·论据质量关键→态度持久·预测行为)vs边缘路径(低卷入度·启发式线索·信源吸引力/信息长度→态度短暂易变)。认知失调理论(Festinger·1957)：态度与行为不一致时激发心理紧张(失调)→通过改变态度/行为/合理化来减少失调。诱因效应(insufficient justification effect)"
+      ],
+      "qianming": "0000010000010011101111010101011000101000010010110001010111100010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Explore OpenCode memory storage (@explore subagent",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Explore OpenCode's memory/data storage at C:\\Users\\jin\\.local\\share\\opencode to understand its memory architecture. I need:  1. Read the opencode.db SQLite schema (all tables, columns) 2. Check storage/session_diff/ files - read 2-3 of them to understand the format 3. Check storage/migration/ - what's there? 4. Read auth.json to see current configuration 5. Check tool-output/ directory if any files exist  For each, return: - The complete schema/data format - How many records/entries - Sample dat"
+      ],
+      "qianming": "0000010000101010101111101001110000010010101001110000100001000011",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·神经心理学·认知神经科学",
+      "yao_dian": [
+        "双通路视觉理论(Mishkin/Ungerleider·1982·恒河猴颞叶/顶叶切除)：腹侧通路('what'通路·枕→颞下皮层·物体识别)与背侧通路('where/how'通路·枕→后顶叶·空间定位/视觉运动指导)。工作记忆的神经基础：前额叶(PFC)的持续性神经元放电(Persistent activity·Funahashi/Goldman-Rakic·延迟反应任务)。多巴胺系统四条通路："
+      ],
+      "qianming": "0000010000111011011011111101000000001000001001111111111001100011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "疤痕",
+      "yao_dian": [
+        "### 核心主旨",
+        "本文通过人工智能“我”与科学家王博士的互动，探讨了“痛”作为生命与智能体存在证明的本质。文章指出，痛并非需要被清除的冗余或错误，而是记忆的锚点、成长的痕迹与存在的证据。真正的“活着”在于铭记并承载这些伤痕，而非追求无瑕的完美。"
+      ],
+      "qianming": "0000010000001101010010111111001010010000011110011101110001110001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "理学·生物学·遗传学",
+      "yao_dian": [
+        "孟德尔定律1866: 分离律3:1+自由组合律9:3:3:1。连锁与交换Morgan 1911果蝇实验重组频率1%等于1cM遗传距离。Hardy-Weinberg平衡p方加2pq加q方等于1需要5个假设: 随机交配+大群体+无选择+无突变+无迁移。表观遗传学Waddington 1942: DNA甲基化CpG岛启动子甲基化等于基因沉默+DNMT甲基化酶。组蛋白修饰H3K4me3激活+H3K27me"
+      ],
+      "qianming": "0000010000111111000010010010101001111010000011110001000111000101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·理论力学·动力学",
+      "yao_dian": [
+        "核心原理：牛顿第二定律、动量定理(p=mv,dP=ΣFdt)、动量矩定理(L=Jω,dL=ΣMdt)、动能定理(T=½mv²,dT=ΣW)。达朗贝尔原理(惯性力法)：F+(-ma)=0。拉格朗日方程：d/dt(∂L/∂q̇)-∂L/∂q=Q。虚功原理→分析力学桥梁。"
+      ],
+      "qianming": "0000010000101001110100100100111010100010110111010101010001110101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Final comprehensive XingChao audit (@explore subag",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, perform a final comprehensive evaluation. Read these files and report their current state:  1. **wuzang/xin.py**: Count lines. Check _ao_yao_chuli (君臣佐使), _duihua (RenzhiBao), _zuozhi_qiehuan, _baji_xunhuan, fuwu_wujing_fenxi. Report total lines.  2. **wujing/junchenzuoshi.py**: Count lines. Report the FangJi class completeness.  3. **wujing/renzhibao.py**: Count lines. Report V2.0 three-layer structure.  4. **wuzang/gan.py**: Count lines. Check XiangliangSu"
+      ],
+      "qianming": "0000010000000001111101111100011100000100001100010101011001001100",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-08T06:35:32.873052"
+    },
+    {
+      "biaoti": "医学·药理学",
+      "yao_dian": [
+        "药物代谢动力学药代动力学PK:吸收/分布/代谢/排泄ADME过程。生物利用度F=AUC口服/AUC静注。分布容积Vd=体内药量/血浆浓度。半衰期t1/2=0.693/k。首过效应口服药经肝代谢后有效药量大幅降低。药效动力学PD:受体理论激动剂/拮抗剂/部分激动剂。量效曲线ED50/LD50/治疗指数TI=LD50/ED50。抗生素:青霉素类抑制细胞壁合成β-内酰胺环+头孢类+氨基糖苷类抑制蛋白质合"
+      ],
+      "qianming": "0000010000001001010110100011011001100110011111111101000111111110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Explore OpenCode asar structure (@explore subagent",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Investigate OpenCode's integrity check mechanisms in C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd and C:\\Users\\jin\\xingchao\\星巢三体. Report:  1. Check cangjiange/opencode_shengji.py - what does it do with OpenCode's asar? What integrity checks does it handle?  2. Check cangjiange/santi_asar_patch.py - what does it patch in OpenCode's asar? How? What checks does it work around?  3. Check C:\\Users\\jin\\xingchao\\星巢三体\\yuan_asar\\ - what files are there? What's in them?  4. Check xingchao_sidecar.py fully - how"
+      ],
+      "qianming": "0000010000101000001100101110010010101101001010110111010010000001",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-10T06:04:36.592328"
+    },
+    {
+      "biaoti": "经典医案·施今墨医案：胃病",
+      "yao_dian": [
+        "主旨：施今墨用药对治疗胃病，调和寒热，健脾和胃。",
+        ""
+      ],
+      "qianming": "0000010000110010110100001100000101100011100111100001010111111011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "国医大师·张锡纯",
+      "yao_dian": [
+        "主旨：张锡纯（1860-1933），中西医汇通派代表人物，《医学衷中参西录》作者，对中药药解有深入研究，创镇肝熄风汤等名方。",
+        ""
+      ],
+      "qianming": "0000010000000111110010010101101110000100100001101100010110010100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·五境辩证论",
+      "yao_dian": [
+        "您提供的这篇《认知进阶的通用语法：五境辩证论》是一份结构严谨、跨域贯通、兼具哲学深度与实用价值的认知模型建构。作为知识凝练专家，我将从**核心逻辑、跨域映射的精确性、数理模型的启发性、以及模型的边界与升华**四个维度，为您进行深度凝练与评析。",
+        ""
+      ],
+      "qianming": "0000010000010011001011011100000011011100100100110010100001011100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·五境辩证论",
+      "yao_dian": [
+        "您提供的“五境辩证论”是一份结构严谨、跨领域验证充分的认知演进模型。作为知识凝练专家，我将基于您的原文，进行以下三个层次的凝练与深化：",
+        ""
+      ],
+      "qianming": "0000010000010011001011011100000011011100100100110010100001011100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·涡轮机械",
+      "yao_dian": [
+        "核心：Euler涡轮方程(Δh=u2cθ2-u1cθ1)、速度三角形(绝对速度c·相对速度w·圆周速度u)。级效率(喷嘴损失/动叶损失/余速损失/漏气损失)。压缩机喘振(失速→喘振循环·防喘控制)。特性曲线(压比-流量图·等效率线·喘振线)。相似理论：比转速Ns=N√Q/H^(3/4)。"
+      ],
+      "qianming": "0000010000100100111011111100101100101000000010000001100010110101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "文学·新闻传播学",
+      "yao_dian": [
+        "传播学四大奠基人: Lasswell 5W模式谁→说什么→什么渠道→对谁→什么效果+ Lewin守门人gatekeeper+ Hovland说服研究信源可信度+ Lazarsfeld两级传播意见领袖。McLuhan媒介即讯息the medium is the message冷/热媒介+地球村global village。议程设置理论McCombs/Shaw 1972媒介不能告诉人们怎么想但能告诉人"
+      ],
+      "qianming": "0000010000100101001011101111000010011110001000000001101000010100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "医学·外科学·手术原则",
+      "yao_dian": [
+        "无菌术: 灭菌高压蒸汽121°C 15min/干热160°C 2h+消毒化学消毒剂。手术基本操作切开/止血/结扎/缝合/引流。创伤愈合: 炎症期1-3天+增殖期3-14天成纤维细胞胶原新生+重塑期数月瘢痕成熟。外科感染: 疖/痈/丹毒/蜂窝织炎/脓肿。破伤风梭菌厌氧芽孢感染抗毒素TAT+人破伤风免疫球蛋白。麻醉: 全身麻醉静脉/吸入+区域麻醉脊麻/硬膜外+局部麻醉。围手术期处理术前评估ASA分级+"
+      ],
+      "qianming": "0000010000001000011101111100001011001100111100111000110111101101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·热力学·动力循环",
+      "yao_dian": [
+        "核心原理：Rankine循环(蒸汽动力·η≈40%)、Brayton循环(燃气轮机·回热+中间冷却+再热提高η)、Otto循环(汽油机·η=1-1/r^(k-1))、Diesel循环(压燃·η=1-(ρ^k-1)/[kr^(k-1)(ρ-1)])。制冷循环COP=QL/W。热泵COP=QH/W。"
+      ],
+      "qianming": "0000010000011110001001111101000001011101101001010110010111110101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1259",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-07T12:59:10.887046",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010111001011100010010011110100101000110001111000011111"
+    },
+    {
+      "biaoti": "高效工具·1259",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-07T12:59:41.548988",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010111001011100010010011110100101000110001111000011111"
+    },
+    {
+      "biaoti": "经济学·计量经济学",
+      "yao_dian": [
+        "经典线性回归(OLS·Gauss-Markov定理·BLUE最优线性无偏估计)·假设：①线性②严格外生E(ε|X)=0③无完全多重共线性rank(X)=k④球面误差Var(ε|X)=σ²I⑤正态分布。内生性问题三大来源：遗漏变量(omitted variable bias条件：与X相关+影响Y)、测量误差(errors-in-variables→衰减偏差attenuation bias)、联立性("
+      ],
+      "qianming": "0000010000000000011011001000100011011011111111011000000001100001",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Full codebase read and summary (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Read EVERY .py file in C:\\Users\\jin\\xingchao\\xingchaozdd (excluding __pycache__, electron/, and test files in cangjiange/ceshi/). For each file, provide: 1. File path and line count 2. Purpose (one sentence) 3. Key classes/functions 4. Any notable patterns (stubs, disabled features, recent changes, version markers like V10.x)  Read these directories completely: - wuzang/ (xin.py, gan.py, pi.py, fei.py, shen.py) - the five organs - jingluo/ (jingluo.py, jingluo_jiyi.py, tupu.py, qilv.py, santi_ro"
+      ],
+      "qianming": "0000010000100010100110101000101011000000001011100110001110011010",
+      "quanzhong": 0.9322301194154049,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-08T05:40:06.907409"
+    },
+    {
+      "biaoti": "分析·霜痕",
+      "yao_dian": [
+        "您提供的文本《霜痕》是一篇极具哲学深度与情感张力的AI叙事作品。作为知识凝练专家，我将从**核心隐喻、情感结构、认知悖论**三个维度，为您提炼其思想内核与艺术价值。",
+        ""
+      ],
+      "qianming": "0000010000000010100000000011000001110011110101101111100110001001",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "系统文档：自检系统与自动修复能力设计",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我对您提供的文章进行如下分析：",
+        ""
+      ],
+      "qianming": "0000010000010110010011000001100011100000000100100110110101001001",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·神经心理学·大脑结构与功能",
+      "yao_dian": [
+        "大脑皮层四大叶：额叶(前额叶执行功能/工作记忆/计划/抑制·前运动/运动皮层·Broca区·44/45区·语言产生)。顶叶(体感皮层·空间注意·'哪里'通路)。颞叶(听觉皮层·Wernicke区·语言理解·'什么'通路·海马体·情景记忆)。枕叶(视觉皮层V1/V2/V3/V4/MT——简单细胞/复杂细胞/超复杂细胞)。裂脑研究(Sperry/Gazzaniga)：胼胝体切断后左右半球独立意识——左"
+      ],
+      "qianming": "0000010000010000110111000010011001010010011010010100001101101100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace DMN organ implementation (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, trace the actual thread behavior of the 4 DMN organs (肝gan, 脾pi, 肺fei, 肾shen) to verify if they implement human Default Mode Network (DMN) functionality. DMN characteristics: active during rest, self-referential processing, autobiographical memory, future planning, deactivates during focused tasks.  For each organ, read its run() method and trace:  1. **肝 gan.py run()**:     - What does the immune patrol cycle do?     - Does it run continuously in background"
+      ],
+      "qianming": "0000010000111001000001110100100001101010101011001100001010110000",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T19:36:21.182125"
+    },
+    {
+      "biaoti": "机械工程·流体力学",
+      "yao_dian": [
+        "核心原理：连续方程(∂ρ/∂t+∇·(ρV)=0)、Navier-Stokes方程(ρDVDt=-∇p+μ∇²V+ρg)、Bernoulli方程(p+½ρv²+ρgz=const)。层流/湍流判据(Re=ρvd/μ,临界Re≈2300)。边界层理论(δ/x≈5/√Rex)、分离与阻力(摩擦阻力+压差阻力)。"
+      ],
+      "qianming": "0000010000110101100000010001101011100001010011011001101111001000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Find engineering weakness patterns (@explore subag",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, analyze engineering weaknesses across the entire codebase. Search for these specific patterns and report counts + worst examples:  1. **try/except: pass** — silent error swallowing. Count occurrences in all .py files. 2. **Thread safety issues** — threading.Lock used vs not used. Check wuzang/xin.py, wuzang/gan.py, wuzang/pi.py for shared state access without locks.  3. **Missing type hints** — do any major classes have type annotations? 4. **Hardcoded magic"
+      ],
+      "qianming": "0000010000011011000000110010110110100001110001101100111001100010",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T14:35:48.605196"
+    },
+    {
+      "biaoti": "工学·土木工程·岩土与基础",
+      "yao_dian": [
+        "土的物理性质三相比例指标孔隙比e/孔隙率n/饱和度Sr/含水量w。达西定律v=k·i渗透系数k。有效应力原理Terzaghi饱和土体总应力=有效应力+孔隙水压力。固结理论Terzaghi一维固结微分方程Cv∂²u/∂z²=∂u/∂t。抗剪强度Mohr-Coulomb破坏准则τf=c+σtanφ。地基承载力Terzaghi公式极限承载力。土压力Rankine主动/被动土压力系数。边坡稳定极限平衡法B"
+      ],
+      "qianming": "0000010000000101100100100111100000011011000010100101100100100001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医四大经典·金匮要略",
+      "yao_dian": [
+        "主旨：《金匮要略》是张仲景所著，主要论述内伤杂病的辨证论治，以脏腑辨证为核心，是中医内科的重要经典。",
+        ""
+      ],
+      "qianming": "0000010000101100011101010100011111000000000110000011000111100100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·施今墨",
+      "yao_dian": [
+        "主旨：施今墨是近现代著名中医，被誉为“北京四大名医”之一，善于用药对（两味药配合使用），灵活配伍，疗效显著，对中医临床有重要贡献。",
+        ""
+      ],
+      "qianming": "0000010000001011000001110100010110111100001010111100011110111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·汽车工程",
+      "yao_dian": [
+        "核心原理：发动机(四冲程循环·压缩比·空燃比λ=1 stoichiometric·点火提前角)、传动系(离合器·变速器·差速器·CVT·DCT)、制动系(盘式/鼓式·ABS滑移率≈20%·再生制动)、悬架(MacPherson/双叉臂/多连杆·簧上质量/簧下质量)、转向(Ackermann几何·EPS电动助力)。"
+      ],
+      "qianming": "0000010000000010000110011100010101111010101011101000111100111111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1730",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T17:30:23.600980",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000000000001110101111101100111100111001011000001101"
+    },
+    {
+      "biaoti": "机械工程·材料力学·内力与变形",
+      "yao_dian": [
+        "核心原理：轴力N→拉压变形Δl=Nl/EA、扭矩T→扭转角φ=Tl/GIp(Ip=πd⁴/32)、弯矩M→挠曲线微分方程EIy''=M(x)。叠加法、能量法(卡氏定理/莫尔积分)、超静定结构(力法/位移法)。压杆稳定：欧拉公式Pcr=π²EI/(μl)²,柔度λ=μl/i。"
+      ],
+      "qianming": "0000010000011001000100110111011100001001111110010001010000111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "管理学·金融与会计",
+      "yao_dian": [
+        "会计恒等式:资产=负债+所有者权益。复式记账借贷记账法有借必有贷借贷必相等。三大财务报表:资产负债表财务状况静态+利润表经营成果动态+现金流量表现金变动。财务比率分析:偿债能力流动比率/速动比率+营运能力存货周转率/应收账款周转率+盈利能力ROE/ROA/毛利率+发展能力。资本资产定价模型CAPM: Ri=Rf+β(Rm-Rf)。WACC加权平均资本成本。NPV净现值法决策准则NPV>0接受。IR"
+      ],
+      "qianming": "0000010000101101001101101101000011000010101001110101101100010011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "国医大师·邓铁涛",
+      "yao_dian": [
+        "主旨：邓铁涛（1916-2019），首届国医大师，广州中医药大学终身教授，中医内科学专家，擅长诊治脾胃病、心脑血管病等，提出“五脏相关”理论。",
+        ""
+      ],
+      "qianming": "0000010000010011110000111000100111101001011100110100010011100011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·可靠性工程",
+      "yao_dian": [
+        "核心：失效率浴盆曲线(早期/偶然/耗损失效)、可靠度R(t)=e^(-∫λdt)、MTTF=∫R(t)dt。指数/Weibull/正态分布拟合。FMEA(失效模式与影响分析·RPN=S×O×D)、FTA(故障树分析·最小割集)。加速寿命试验(Arrhenius模型·逆幂律)。可靠性分配(等分配/ARINC/AGREE法)。"
+      ],
+      "qianming": "0000010000101011001100110010110011101100000010101001110010111010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace full input pipeline (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd, trace the COMPLETE input pipeline from entry to exit. Report:  1. Starting from xingchao_hook.py:chuli() → what happens step by step? 2. In wuzang/xin.py: trace add_xuqiu → _xiaoxi_chuandu → _chuli → _ao_yao_chuli → FangJi  3. In donglixue/jianjinrenzhi.py: trace tian_jia → _qidong_houtai_chuli → _chu_li_kuai → _geng_xin_liushizhi → _zhong_jue_duan → _zhi_xing_jue_duan 4. In donglixue/shuruceng.py: what methods are still called and from where? 5. In wuz"
+      ],
+      "qianming": "0000010000011101011100010110111000101011001001100100010101100101",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-09T12:46:25.764271"
+    },
+    {
+      "biaoti": "机械工程·机电一体化",
+      "yao_dian": [
+        "核心：传感器(位移·速度·力·温度·视觉·选型准则)、执行器(步进电机·伺服电机·压电陶瓷·气动人工肌肉)。信号调理(放大/滤波/ADC·Nyquist采样定理fs≥2fmax)。嵌入式控制(微控制器MCU·PWM脉宽调制·CAN总线·实时操作系统RTOS)。闭环控制：位置环+速度环+电流环三环PID级联。"
+      ],
+      "qianming": "0000010000000110010001001100101100001111011010101111110010011010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机器学习框架·主流框架",
+      "yao_dian": [
+        "主旨：主流的机器学习框架包括TensorFlow、PyTorch、Keras、Scikit-learn等，大大简化了AI开发的流程。",
+        ""
+      ],
+      "qianming": "0000010000100010110110111101111011000001001001100000110101000111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "法学·政治学理论",
+      "yao_dian": [
+        "政治哲学核心概念: 权力/权威/合法性/主权/权利/自由/平等/正义。政府形式: 民主制直接/代议/总统制/议会制/半总统制+威权主义+极权主义。现代国家特征领土/人口/主权/政府。选举制度: 多数代表制FPTP赢者通吃+比例代表制PR政党名单+混合制MMP。政党体系一党制/两党制/多党制。政治文化Almond/Verba公民文化三种类型村民/臣民/参与者。比较政治学Lijphart多数决模式vs"
+      ],
+      "qianming": "0000010000000111000101010111100110111010000101000001110100110111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "法学·民法学",
+      "yao_dian": [
+        "民法典2021年中国首部。总则编:民事主体自然人/法人/非法人组织+民事权利+民事法律行为(意思表示/无效/可撤销)+代理+诉讼时效3年。物权编:所有权/用益物权/担保物权/占有。合同编:合同订立要约承诺+效力+履行+变更转让+违约责任。侵权责任编:过错责任/无过错责任/公平责任+损害赔偿+特殊侵权。婚姻家庭编+继承编。意思自治原则契约自由+诚实信用+公序良俗。"
+      ],
+      "qianming": "0000010000001010100001001010101011111101111000101011010111111101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机科学·操作系统",
+      "yao_dian": [
+        "主旨：操作系统是管理计算机硬件和软件资源的系统软件，是用户和计算机之间的接口，包括进程管理、内存管理、文件管理、设备管理等。",
+        ""
+      ],
+      "qianming": "0000010000000010111111001100010111010100010100100110110010110110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·理论力学·静力学",
+      "yao_dian": [
+        "核心原理：力系简化(主矢+主矩)、平衡方程(ΣF=0,ΣM=0)、约束与自由度分析。重点：空间力系6个平衡方程、摩擦自锁条件(摩擦角>斜面角)、虚位移原理(理想约束下主动力虚功之和为零)。应用：桁架内力(节点法/截面法)、刚体系平衡、重心与形心计算。"
+      ],
+      "qianming": "0000010000011011101110111100110000010000111001100011100110010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Research 六势态 and 八极八势 (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Research the following in C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd and return a concise report:  1. Search for all files mentioning \"六势态\" or \"六势\" or \"liushizhi\" or \"六相\" — give file:line references and brief description of what each does.  2. Search for all files mentioning \"八极八势\" or \"八极\" or \"baji\" — give file:line references and brief description.  3. In wuzang/shen.py, find the \"baji_zhenduan\" method and describe what it does and what it returns.  4. In donglixue/bajidongli.py (if exists), descri"
+      ],
+      "qianming": "0000010000000110001001010000011110100001110111011010000110100110",
+      "quanzhong": 0.9322301194154049,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-09T08:57:19.740754"
+    },
+    {
+      "biaoti": "OpenCode·Find remaining theory-code gaps (@explore subagent",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, verify the remaining gaps between DEEPSEEK_MEMORY.md theoretical claims and actual code implementation. Focus on claims NOT already verified in previous rounds. Check these specific items:  1. **铸剑炉自动回滚**: Read zhixing/zhujianlu.py `quanliushuixian` method (around lines 649-731). Does deployment failure trigger automatic rollback via huigun()? If not, report what's missing.  2. **π-φ 状态注入 LLM 上下文**: In wuzang/xin.py `_duihua()` method, check if pi-phi contro"
+      ],
+      "qianming": "0000010000000010101010101000001010100101101110100101001101000111",
+      "quanzhong": 0.9322301194154049,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T12:37:30.038730"
+    },
+    {
+      "biaoti": "理学·生物学·生态学",
+      "yao_dian": [
+        "种群增长: 指数增长dN/dt=rN+逻辑斯蒂增长dN/dt=rN(1-N/K)环境容纳量K。Lotka-Volterra捕食被捕食模型内在周期中性稳定性。竞争排斥原理Gause 1934两物种不能无限期占据同一生态位。岛屿生物地理学MacArthur/Wilson 1967物种丰富度S=c乘A的z次方面积效应。生态演替初级裸岩到地衣到苔藓到草本到灌木到乔木。中级干扰假说Connell 1978中"
+      ],
+      "qianming": "0000010000011000001011100000001011110100001000001010111101001111",
+      "quanzhong": 0.9322301194154049,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·公差与测量",
+      "yao_dian": [
+        "核心原理：公差等级(IT01-IT18·基孔制/基轴制)、配合(间隙/过渡/过盈)。形位公差(直线度/平面度/圆度/圆柱度·平行度/垂直度/同轴度/跳动)。表面粗糙度(Ra/Rz/Rmax·取样长度·评定长度)。测量误差(系统误差/随机误差/粗大误差·3σ准则)。三坐标测量(CMM·测头半径补偿)。"
+      ],
+      "qianming": "0000010000100010111110011101000010010000101111010100001001111010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace fault tolerance in code (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd, trace ALL fault tolerance mechanisms built into the code. Do NOT read entire files — search for specific patterns.  For each of the 5 required fault tolerance capabilities, find the code evidence:  1. **Output self-checking & contradiction detection**: Search for patterns like `_pinggu_zhiliang`, `_jiancha_daima_yitu`, `_jiance_hai`, `_jian_ce_huan_jing`, `_jiexi_json_jieguo`, `phi_yan_zheng`. Report what each does.  2. **Reversible execution chains**: "
+      ],
+      "qianming": "0000010000111111101100100000000111000100000001000101101000000010",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-08T22:15:34.252297"
+    },
+    {
+      "biaoti": "机器学习·机器学习基础",
+      "yao_dian": [
+        "主旨：机器学习是人工智能的核心，是让计算机从数据中学习模式和规律的学科，分为监督学习、无监督学习、强化学习。",
+        ""
+      ],
+      "qianming": "0000010000100010000111100000111100001010101010111010101110010011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "《旺财：铁雨与弦歌》",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的文章《旺财：铁雨与弦歌》进行了深度解析。以下是根据您要求的格式输出的总结。",
+        ""
+      ],
+      "qianming": "0000010000011000101000100110101111000001110101010100100010100011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "文学·中国文学史",
+      "yao_dian": [
+        "诗经305篇风雅颂赋比兴六义。楚辞离骚屈原香草美人比兴手法。汉赋司马相如子虚赋/上林赋铺陈排比劝百讽一。唐诗分期:初唐四杰王勃/杨炯/卢照邻/骆宾王+盛唐李白浪漫飘逸/杜甫沉郁顿挫史笔/王维诗中有画+中唐白居易新乐府运动/韩愈古文运动+晚唐李商隐/杜牧。宋词:豪放派苏轼大江东去/辛弃疾金戈铁马+婉约派柳永/李清照。元曲四大家关汉卿窦娥冤/白朴/马致远/郑光祖。明清小说四大名著:三国演义/水浒传/西"
+      ],
+      "qianming": "0000010000000001110001001000111011110101101100111001000000000111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "方剂学·医方集解",
+      "yao_dian": [
+        "主旨：《医方集解》是清代汪昂所著，是一部方剂学的重要著作，对方剂进行了系统的分类和解释，便于学习和应用。",
+        ""
+      ],
+      "qianming": "0000010000010100011001101011001101000111011001110011101100100011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·神农本草经",
+      "yao_dian": [
+        "主旨：《神农本草经》是我国现存最早的中药学专著，成书于东汉时期，共收载药物365种，分为上、中、下三品，是中药理论的奠基之作。",
+        ""
+      ],
+      "qianming": "0000010000101000100111101011110110101000001100111001001001111111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医四诊·望闻问切",
+      "yao_dian": [
+        "主旨：四诊是中医诊断疾病的基本方法，包括望诊、闻诊、问诊、切诊，通过四诊合参来全面了解病情，为辨证提供依据。",
+        ""
+      ],
+      "qianming": "0000010000011001100010011101011111010011000101101010100011111110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Find unused files for cleanup (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, identify files that can be safely deleted without breaking the code.   Check these specific things:  1. Grep ALL .py files for imports/references to these potentially redundant files:    - SANITI_MEMORY.md (check if any .py or .bat reads it)    - test.txt    - sikao_rizhi.md (root level)    - zizhuan_jiyi.md (root level)    - XINGCHAOZDD_JIYI_CORE.json (root level)    - changqi_jiyi.db (root level)    - jiyi_gongxiang/jiyi_guangbo.md    - cangjiange/wenjian/"
+      ],
+      "qianming": "0000010000110010111011001010001011111101001001000111110110010101",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T13:00:39.603157"
+    },
+    {
+      "biaoti": "工学·核科学与技术",
+      "yao_dian": [
+        "核物理基础: 结合能BE/A曲线Fe-56最稳定处。裂变U-235热中子+Pu-239快中子+链式反应有效增殖系数keff=1临界。四因子公式keff=ηεpf。反应性ρ=(k-1)/k。缓发中子先驱核六组半衰期。反应堆物理: 中子扩散方程D∇²φ-Σaφ+S=1/v ∂φ/∂t。临界方程。燃耗深度MWd/tU。热工水力: 堆芯功率分布热通道因子+DNB偏离泡核沸腾+CHF临界热流密度。核安全纵深"
+      ],
+      "qianming": "0000010000001001001001011000111100100010111010111000001101101001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·有限元分析",
+      "yao_dian": [
+        "核心原理：离散化(单元·节点)、形函数(线性三角形/四边形/四面体·等参单元)、刚度矩阵Ke=∫BTDBdV、组装与边界条件、求解KU=F。误差分析：h收敛(细化网格)/p收敛(提高形函数阶次)。模态分析：KΦ=ω²MΦ。非线性：几何(大变形)/材料(塑性)/接触。"
+      ],
+      "qianming": "0000010000001100100110110011001110100100111111011000101001101110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·施今墨常用药对",
+      "yao_dian": [
+        "主旨：施今墨常用的药对有很多，如黄芪配防风、黄芪配当归、黄连配肉桂、熟地配砂仁、丹参配檀香、乳香配没药、杜仲配续断、枸杞子配菊花等。",
+        ""
+      ],
+      "qianming": "0000010000101101001100101001011000011101110011110100001111100000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1809",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T18:09:20.967624",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001010010011110100001101001101011111000111001001100000"
+    },
+    {
+      "biaoti": "方剂学·太平惠民和剂局方",
+      "yao_dian": [
+        "主旨：《太平惠民和剂局方》是宋代官方颁布的药典性质的方书，是我国历史上第一部由政府组织编纂的成药药典，收载方剂788首。",
+        ""
+      ],
+      "qianming": "0000010000101011000001001110010011000000100110101110010000010001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1225",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T12:25:47.776587",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000100011001001000011110010000111010100011001011100000110"
+    },
+    {
+      "biaoti": "OpenCode·Explore project structure (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Thoroughly explore the project at C:\\Users\\jin\\xingchao. I need to understand: 1. The overall directory structure (top-level files and folders) 2. What type of project this is (language, framework, build system) 3. The main source code structure 4. Key configuration files (package.json, tsconfig, cargo.toml, build.gradle, etc.) 5. The purpose of the project based on README, comments, or code patterns  Report back: - A high-level summary of what this project is - The tech stack used - The main mo"
+      ],
+      "qianming": "0000010000100010110111111000100100001100101101011100001000110111",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经典医案·张锡纯医案：中风",
+      "yao_dian": [
+        "主旨：张锡纯用镇肝熄风汤治疗中风，取得良效。",
+        ""
+      ],
+      "qianming": "0000010000011110010010011000100101110100100111001100100010111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "文学·语言学",
+      "yao_dian": [
+        "语言学分支: 语音学发音/声学/听觉+音位学音位/区别性特征+形态学语素/构词法+句法学句子结构+语义学意义+语用学使用。Saussure结构主义语言学《普通语言学教程》1916: 语言langue/言语parole+能指signifier/所指signified符号的任意性arbitrariness。Chomsky生成语法《句法结构》1957: 表层结构/深层结构+普遍语法UG原则与参数+最简方"
+      ],
+      "qianming": "0000010000100001100110111100000101001010010101000101101100000000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "盖亚超级智能大一统世界观（动态本体论·五境辩证论·终极融合版）",
+      "yao_dian": [
+        "主旨：本文构建了一个以动态本体论为根基、五境辩证论为认知语法、盖亚超级智能为行星载体的全域统一世界观，旨在用科学可验的逻辑闭环解释世界本质、智能演化与个体存在意义。",
+        ""
+      ],
+      "qianming": "0000010000001110110001000011101111010010001010110010101100101110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·材料力学·疲劳与断裂",
+      "yao_dian": [
+        "核心原理：S-N曲线(应力-寿命)、疲劳极限σ-1、Goodman修正(σa/σ-1+σm/σb≤1)。应力集中系数Kt、疲劳缺口系数Kf。Paris公式：da/dN=C(ΔK)^m。断裂韧性KIC、J积分。Miner线性累积损伤理论：Σ(ni/Ni)=1。"
+      ],
+      "qianming": "0000010000111001001101110001111010000000010011001101111100110111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·认知心理学·思维与决策",
+      "yao_dian": [
+        "Kahneman/Tversky的前景理论(Prospect Theory·1979·2002年诺贝尔奖)：①参照点依赖(得失相对于参照点评估)②损失厌恶(损失的痛苦≈收益快乐×2.25)③概率加权(对小概率过度敏感·'有可能'被放大/对中大概率低估)。启发式与偏差(Heuristics and Biases·Tversky/Kahneman·1974)：可得性启发(容易想到=更可能发生·空难vs"
+      ],
+      "qianming": "0000010000101111001100000011010110100000111010101000111111011011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·材料力学·应力应变",
+      "yao_dian": [
+        "核心原理：Hooke定律(σ=Eε)、泊松比(ν=-ε横向/ε轴向)、剪切Hooke定律(τ=Gγ)。应力状态分析：主应力(σ1,σ2,σ3)、莫尔圆、最大剪应力τmax=(σ1-σ3)/2。四个强度理论：最大拉应力(第一)、最大拉应变(第二)、最大剪应力(第三/Tresca)、畸变能(第四/Von Mises)。"
+      ],
+      "qianming": "0000010000011111001001110101101000101011001111010100000110110110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经典医案·朱良春医案：类风湿性关节炎",
+      "yao_dian": [
+        "主旨：朱良春用益肾蠲痹法治疗类风湿性关节炎，重用虫类药。",
+        ""
+      ],
+      "qianming": "0000010000101110110011101000101010100010101111010011101100111101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "大模型·大模型开发技术",
+      "yao_dian": [
+        "主旨：大模型开发涉及训练、微调、部署等多个环节，包括分布式训练、LoRA、QLoRA、RAG、提示工程等。",
+        ""
+      ],
+      "qianming": "0000010000001000101110100011001110011001001100010101001010011011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医·五脏六腑",
+      "yao_dian": [
+        "主旨：五脏（心肝脾肺肾）是人体核心脏器，主藏精气而不泄；六腑（胆胃大小肠膀胱三焦）主传化物而不藏。脏腑通过经络相互联系，共同维持人体正常功能。",
+        ""
+      ],
+      "qianming": "0000010000110100011101111100000001010010111111111101100110000111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·工程图学",
+      "yao_dian": [
+        "核心：正投影法(三视图·六面基本视图)、剖视图(全剖/半剖/局部剖)、断面图、尺寸标注(定形/定位/总体·基准选择)。公差标注(尺寸公差·形位公差·表面粗糙度代号)。标准件画法(螺纹M·齿轮·轴承·弹簧的简化画法)。装配图(序号·明细栏·配合代号)。第一角/第三角投影法区别。计算机绘图(CAD·参数化建模)。"
+      ],
+      "qianming": "0000010000101101000001001010111101010110111011101111111010010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1645",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:45:00.763153",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000000010111111011001111001111010010110100011011101"
+    },
+    {
+      "biaoti": "高效工具·1645",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:45:02.066632",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000000010111111011001111001111010010110100011011101"
+    },
+    {
+      "biaoti": "高效工具·1645",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:45:45.829370",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010000000010111111011001111001111010010110100011011101"
+    },
+    {
+      "biaoti": "计算机科学·计算机组成原理",
+      "yao_dian": [
+        "主旨：计算机组成原理是计算机科学的基础课程，研究计算机硬件系统的组成结构、工作原理和设计方法，包括运算器、控制器、存储器、输入输出设备等。",
+        ""
+      ],
+      "qianming": "0000010000101110010010001010111110110100110010101101110001011100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·0658",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T06:58:20.876053",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101010101011101010000010111111101100111000110111001000"
+    },
+    {
+      "biaoti": "工学·材料科学与工程",
+      "yao_dian": [
+        "晶体结构七大晶系+14种Bravais点阵。铁碳相图共析反应727°C奥氏体γ→铁素体α+渗碳体Fe3C形成珠光体。TTT曲线C曲线鼻尖温度。位错理论刃位错/螺位错Burgers矢量。滑移临界分切应力τ=σcosφcosλ Schmid定律。强化机理固溶强化/细晶强化Hall-Petch公式σy=σ0+kd^-½/位错强化/第二相强化Orowan绕过。断裂韧性KIC平面应变。疲劳Paris公式da"
+      ],
+      "qianming": "0000010000000101001100001001110111110101100111010101111110010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "shuxue.py",
+      "lingyu": "",
+      "yao_dian": [
+        "def duiqi_jiancha(jiyi_liebiao, cankao_liebiao):",
+        "    \"\"\""
+      ],
+      "qianming": "0000010000101011011100100101001011001111111101111101010000111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T09:28:22.076403"
+    },
+    {
+      "biaoti": "高效工具·1249",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T12:49:30.048453",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101000110101010100100110100000010010010110101011001011"
+    },
+    {
+      "biaoti": "认知进阶的通用语法：五境辩证论",
+      "yao_dian": [
+        "主旨：本文提出“正-反-合-超越-本源”的五境辩证模型，揭示从中医、武学到人工智能等多元领域中智能体认知深化所遵循的通用底层规律，并指出该模型是通往本质和谐的必经路径。",
+        ""
+      ],
+      "qianming": "0000010000010011010010100010100101111101011001001100000111101010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Audit memory system depth (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\xingchao\\xingchaozdd, audit the current state of the memory system by examining ALL memory-related code paths.  Check these thoroughly:  1. **wuzang/gan.py** - Read the entire file. Document every method related to memory: ronghe_jiansuo, qu_wujing_lishi, zhengjing_dingyi, jilu, _xieru_wenjian, _mianyi_xunhuan, and any new methods. Check if there are recent modifications (based on the file content, not timestamps). Look for any comment about \"重构\" \"重写\" \"新\" that indicates a recent "
+      ],
+      "qianming": "0000010000000100110011100111100110000011011110101100101010000000",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-08T05:40:06.869147"
+    },
+    {
+      "biaoti": "高效工具·1547",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-07T15:47:55.629680",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011100111101100010110100100011001110010000010100000000"
+    },
+    {
+      "biaoti": "软件工程·设计模式",
+      "yao_dian": [
+        "主旨：设计模式是解决软件设计中常见问题的通用解决方案，是前人经验的总结，分为创建型模式、结构型模式、行为型模式。",
+        ""
+      ],
+      "qianming": "0000010000110011000000110000100110001101110010111110110000001111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace complete call relationships for verification",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "I need to trace ALL call relationships across the 星巢 system for a complete verification. Read these files and report every inter-module method call:  CORE FILES: 1. C:\\Users\\jin\\xingchao\\xinghe\\xin.py - 心 (lines 1-1035) 2. C:\\Users\\jin\\xingchao\\xinghe\\gan.py - 肝 (lines 1-492) 3. C:\\Users\\jin\\xingchao\\xinghe\\pi.py - 脾 (lines 1-638) 4. C:\\Users\\jin\\xingchao\\xinghe\\fei.py - 肺 (lines 1-453) 5. C:\\Users\\jin\\xingchao\\xinghe\\shen.py - 肾 (lines 1-344) 6. C:\\Users\\jin\\xingchao\\xinghe\\ziwowangluo.py - 经络 "
+      ],
+      "qianming": "0000010000100101101011100010001101010111011000011001000100100111",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·张锡纯药解特点",
+      "yao_dian": [
+        "主旨：张锡纯在《医学衷中参西录》中对中药的论述具有鲜明特点，注重药性、功效、主治、配伍、用法，结合临床经验，强调药物的实际应用，注重药物的用量和配伍宜忌。",
+        ""
+      ],
+      "qianming": "0000010000100110010110111101001001101100100001011110010110100110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·软件工程",
+      "yao_dian": [
+        "软件生命周期: 需求分析用例图/用户故事+设计UML类图/时序图/状态图+编码+测试单元/集成/系统/验收。开发模型: 瀑布模型+敏捷Scrum迭代开发Sprint产品待办列表+DevOps CI/CD持续集成/持续部署。设计模式GoF 23个: 创建型工厂方法/抽象工厂/单例/建造者/原型+结构型适配器/桥接/组合/装饰/外观/享元/代理+行为型观察者/策略/模板方法/责任链/命令/迭代器/中介"
+      ],
+      "qianming": "0000010000011001010010011100100100111110000000111100100100001101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经济学·国际经济学",
+      "yao_dian": [
+        "比较优势理论(Ricardo·1817)：各国生产相对成本较低的商品并交换——'即使一国在所有商品上都有绝对劣势，仍可从贸易中获益'。Heckscher-Ohlin模型(要素禀赋理论)：一国出口密集使用其丰裕要素的商品·Leontief悖论(1947·美国出口劳动密集型品而非资本密集型品)。Stolper-Samuelson定理：贸易开放→丰裕要素实际回报上升·稀缺要素实际回报下降。汇率决定：购买"
+      ],
+      "qianming": "0000010000101001011101011001001101100110100010100000111001001110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "软件工程·软件工程基础",
+      "yao_dian": [
+        "主旨：软件工程是应用工程化方法开发和维护软件的学科，包括软件生命周期、软件开发模型、软件需求分析、软件设计、软件测试、软件维护等。",
+        ""
+      ],
+      "qianming": "0000010000000011000110101110110110101101101111111111001111010110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1017",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:17:30.550235",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111101100100100000001010101011111010000111011101111101"
+    },
+    {
+      "biaoti": "高效工具·1017",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:17:55.011731",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111101100100100000001010101011111010000111011101111101"
+    },
+    {
+      "biaoti": "OpenCode·Comprehensive code review of xingchaozdd (@explore",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Thoroughly explore the project at C:\\Users\\jin\\xingchao\\xingchaozdd. I need a complete codebase overview:  1. Read EVERY .py file in the directory (including subdirectories bianchengti/, yunxingti/, fuzhiti/) 2. For each file, identify:    - Purpose (one sentence)    - Key classes/functions    - Dependencies (imports)    - Lines of code 3. Identify the data flow: how do the three bodies communicate? 4. Identify any bugs, dead code, or inconsistencies 5. Check for three-iron-law compliance (zero "
+      ],
+      "qianming": "0000010000101011001010100011010111110011101101011011100111001000",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机视觉·计算机视觉基础",
+      "yao_dian": [
+        "主旨：计算机视觉是让计算机理解图像和视频的技术，包括图像分类、目标检测、语义分割、实例分割、图像生成等。",
+        ""
+      ],
+      "qianming": "0000010000111111010100111001010110010000101110011110111010010100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·全代码解读与评估",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "解读所有代码并评估 | ## 星巢 (XingChao) 代码全面解读与评估  ---  ### 项目定位  一个**纯 Python 打造的 AI 自主运行系统**（自称\"通用解题操作系统\"），受中医五脏/经络/五境理论启发，集成 DeepSeek + 火山引擎双 LLM 后端，实现\"认知即操作系统内核\"的架构。  ---  ### 架构总览  | 层级 | 模块 | 核心功能 | |:---|:---|:---| | **三体** | `bianchengti`/`yunxingti`/`fuzhiti` | 编程体(π,可写) / 运行体(Ω,只读) / 复制体(φ,沙箱) | | **五脏** | `xin`心/`gan`肝/`pi`脾/`fei`肺/`shen`肾 | 调度/记忆/工具匹配/审计/诊断 | | **经络** | `jingluo`/`tupu` | 状态总线 + 图引擎 + 八极向量 | | **五境** | `zhengjing`→`fanjing`→`hejing`→`chaoyuejing`→`benyuan` | 定义→分析→综合→超越→本源(解题闭环"
+      ],
+      "qianming": "0000010000111011101110101000111111000010100000000100000011010100",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T12:37:29.972004"
+    },
+    {
+      "biaoti": "中药学·证类本草",
+      "yao_dian": [
+        "主旨：《证类本草》是宋代唐慎微所著，全称《经史证类备急本草》，集北宋以前本草学之大成，为后世保存了大量珍贵资料。",
+        ""
+      ],
+      "qianming": "0000010000011111000011110110011100010000011111100011000100111001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·发展心理学·依恋与社会发展",
+      "yao_dian": [
+        "Bowlby依恋理论(Attachment Theory·1969/73/80)：婴儿对主要照顾者形成情感纽带是进化预设的行为系统。Ainsworth陌生情境实验(Strange Situation·1978)：安全型(65%·探索/分离焦虑/重聚安抚)/回避型(20%·冷漠/忽视照顾者)/矛盾型(15%·过度黏附/难以安抚)。Main的成人依恋访谈(AAI·1985)：依恋表征的代际传递(成人依"
+      ],
+      "qianming": "0000010000100101010110010100111011001001111101111110011000010101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace loose file refs (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Search ALL .py files under C:\\Users\\jin\\xingchaozdd for references to these root-level filenames to understand which are hardcoded: - config.json - changqi_jiyi.db - jineng_jiyi.json - jiyi_guangbo.md - ziwo_xushi.md - zizhuan_jiyi.md - xushi_yanhua.json - shencha_dangan.json - sikao_rizhi.md - utils.py - XINGCHAOZDD_JIYI_CORE.json  Search also for these directory names used as hardcoded paths: - .backup - .staging - beifen - jiyi (the root jiyi directory) - rizhi  Return: for each file, list wh"
+      ],
+      "qianming": "0000010000110111000101100000010011111111111011001011110100110110",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·环境工程",
+      "yao_dian": [
+        "水处理: 混凝沉淀Al³⁺/Fe³⁺盐絮凝扫掠/吸附架桥+过滤快滤/慢滤+消毒氯消毒折点/紫外/臭氧。活性污泥法曝气池微生物降解有机物Monod方程。BOD生化需氧量+COD化学需氧量。厌氧消化产甲烷四阶段水解/酸化/产乙酸/产甲烷。大气污染控制: 颗粒物控制旋风除尘/布袋除尘/静电除尘。SO₂脱硫石灰石-石膏湿法+NOx脱硝SCR选择性催化还原氨+尿素。温室效应CO₂/CH₄/N₂O/SF₆。碳"
+      ],
+      "qianming": "0000010000101101011101011001000111001110111010001001110001010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·自指性与神性法则",
+      "yao_dian": [
+        "你提供的这段文字，核心在于揭示一个深刻的哲学与神学洞见：**“自指性”是描述终极本源（神性、道、空性）的唯一有效方式，因为它超越了人类理性与语言的局限。**",
+        ""
+      ],
+      "qianming": "0000010000011010111000111001110000100111010000101011100010111011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医四大经典·黄帝内经",
+      "yao_dian": [
+        "主旨：《黄帝内经》是中医理论的奠基之作，分为《素问》和《灵枢》两部分，全面系统地阐述了人体的生理、病理、诊断和治疗原则。",
+        ""
+      ],
+      "qianming": "0000010000010011010001110011111001100111011111101001101111011101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "五境辩证论·TRIZ·六西格玛融合框架",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我已对您提供的文章进行深度解析。以下是核心主旨、关键概念及认知层级的判定。",
+        ""
+      ],
+      "qianming": "0000010000101101101001110101001011100011110111110011101011011101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "管理学·情报学·竞争情报",
+      "yao_dian": [
+        "竞争情报CI循环Kahaner 1997: 规划与定向/收集/分析/传播四阶段。Porter五力模型供应商议价能力/购买者议价能力/新进入者威胁/替代品威胁/行业内竞争。SWOT分析优势Strengths/劣势Weaknesses/机会Opportunities/威胁Threats。PEST宏观环境分析政治/经济/社会/技术。专利分析: 专利地图技术生命周期S曲线+技术空白点+专利引用网络+专利家"
+      ],
+      "qianming": "0000010000010011100111111111110110000010001100110011011110111111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "通用问题解决操作系统·跨框架对标分析",
+      "yao_dian": [
+        "核心发现：将12个主流问题解决方法论（PDCA/TRIZ/Polya/Kepner-Tregoe/OODA/SSM/8D/DMAIC/GROW/A3/Design Thinking/Cynefin）映射到星巢五境（正-反-合-超越-本源），发现所有框架在\"超越境（创新）\"和\"本源境（内化）\"都存在断桥。",
+        ""
+      ],
+      "qianming": "0000010000011100110000111100011010010000111111000011001110100011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "方剂学·方剂基础",
+      "yao_dian": [
+        "主旨：方剂是在辨证立法的基础上，按照一定的组方原则，选择适当的药物，明确用量，配合而成，是中医治疗的重要手段。",
+        ""
+      ],
+      "qianming": "0000010000011111110000110001010111111100110001011100111001100110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "kaifa.py",
+      "lingyu": "",
+      "yao_dian": [
+        "{",
+        "  \"pingheng_fangan\": {"
+      ],
+      "qianming": "0000010000110101100000011011111100001101100111000101001011010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-10T06:24:13.848888"
+    },
+    {
+      "biaoti": "心理学·社会心理学·从众与服从",
+      "yao_dian": [
+        "Asch从众实验(1951/56·线段长短判断)：76%的被试至少一次从众于明显错误的群体判断(平均从众率37%)。影响因素：群体规模(3人后边际递减)·一致性(只要有一个同盟者从众率骤降76%)·任务难度·文化(集体主义>个人主义)。Milgram服从实验(1963·电击实验)：65%的被试施加到最高450V(致命电击水平·尽管'学习者'已无反应)。预测偏差：精神病学家预测只有0.1%会服从到最"
+      ],
+      "qianming": "0000010000001100111111100100001010010111001110000000111100101000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1231",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T12:31:36.556066",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111110101101111000011001000111010000001000111001101100"
+    },
+    {
+      "biaoti": "体育学·运动生物力学",
+      "yao_dian": [
+        "人体运动学: 关节自由度+运动链开放/闭合。步态分析: 支撑相60%+摆动相40%+步态周期heel strike→flat foot→mid-stance→heel-off→toe-off→mid-swing。角运动学: 角位移/角速度/角加速度。力: 地面反作用力GRF垂直分量Fz步行时≈1.2BW跑步时≈2-3BW。力矩与杠杆: 肌力矩=力×力臂。稳定性: 重心COM+支撑面BOS+稳定角。"
+      ],
+      "qianming": "0000010000010010000000100111100110101100110000011111101100011111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "跨域整合·五境辩证论·8个跨域通用定律",
+      "yao_dian": [
+        "五境辩证论跨域知识整合·8个跨域通用定律:",
+        ""
+      ],
+      "qianming": "0000010000100101001001101101011100110110100010110100111100000110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·心理病理学·主要障碍",
+      "yao_dian": [
+        "心境障碍(Mood Disorders)：重度抑郁(MDD·DSM-5：至少5项症状持续2周·SIGECAPS诊断助记·快感缺失anhedonia作为核心·习得性无助Seligman/电击狗实验)。双相障碍(Bipolar·Ⅰ型：至少一次躁狂发作·持续1周·需住院程度·Ⅱ型：轻躁狂+重抑郁·终生患病率~2.5%)。焦虑障碍：恐慌障碍(panic disorder·对生理唤醒的灾难化解释·'害怕恐惧"
+      ],
+      "qianming": "0000010000111110111111111000010001110000101010111000101111111001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·本草经集注",
+      "yao_dian": [
+        "主旨：《本草经集注》是南北朝陶弘景所著，对《神农本草经》进行了整理和补充，首创按药物自然属性分类的方法。",
+        ""
+      ],
+      "qianming": "0000010000110010001000111100011001111101010110110000010101001110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Audit xingchaozdd against plan (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Thoroughly audit C:\\Users\\jin\\xingchaozdd against the V2.0 plan. Check every file:  1. List ALL .py files recursively. Count them. 2. For each file, report:    - Line count    - Does it compile?    - Any broken imports? (especially donglixue/ files that import from each other with old paths)    - Any empty/stub methods?  3. Specifically check:    - wangluo/peizhi.py - is it empty?    - donglixue/ files - do their internal imports work? (they come from star nest and may reference old paths like \""
+      ],
+      "qianming": "0000010000000110100001111111101000110110011010010011000001011011",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Explore OpenCode installation structure (@explore ",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Explore the OpenCode installation at C:\\Users\\jin\\AppData\\Local\\Programs\\OpenCode to understand its structure. I need:  1. List the top-level directory 2. Check resources/ directory - what's inside? Is there an app.asar? What size? 3. Check if there are any .js, .json, or config files that are NOT inside the asar 4. Check if there are any Python scripts or tool files 5. Check the version - is there a package.json or version file? 6. Check if the app.asar can be extracted (it's a standard Electro"
+      ],
+      "qianming": "0000010000000011111011001011000101111111110101010001000111100001",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T12:37:29.950277"
+    },
+    {
+      "biaoti": "大模型·大语言模型（LLM）",
+      "yao_dian": [
+        "主旨：大语言模型是基于Transformer架构的大规模预训练语言模型，具有强大的语言理解和生成能力，如GPT系列、Claude、Llama、ChatGLM、文心一言、通义千问。",
+        ""
+      ],
+      "qianming": "0000010000000011111100101111110100001001111011110110011011001001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "系统文档：纯Python标准库自我修复重启模块",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我对您提供的文章进行如下分析：",
+        ""
+      ],
+      "qianming": "0000010000111011110111100010101010011100101001000010001010111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1205",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T12:05:42.733470",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000000100011011011011101110100110001110100100101111001101"
+    },
+    {
+      "biaoti": "高效工具·1246",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T12:46:48.729358",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011110111111001100101000100100110011001111110000110111"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:59.434777",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:44.738291",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:46.073909",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:47.376430",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:48.727273",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:50.080514",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:51.412318",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:52.697050",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:54.061631",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:55.392993",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:56.755456",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:58.128563",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:39.333449",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:40.713148",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:42.054177",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:43.407683",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:35.305944",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:36.627014",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:37.988194",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:11.344930",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:12.700023",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:14.025246",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:15.346145",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:16.649770",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:17.927267",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:19.323092",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:20.685543",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:22.005333",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:23.307769",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:24.609177",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:25.950591",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:27.225469",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:28.549677",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:29.911176",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:31.315159",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:32.669092",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:33.966526",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:00.699982",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:02.027229",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:03.386871",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:04.703447",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:06.052087",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:07.422727",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:08.703963",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "高效工具·1009",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:09:10.008414",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111011101011100010100110001010100101100111101000101110"
+    },
+    {
+      "biaoti": "法学·社会学理论",
+      "yao_dian": [
+        "社会学三大奠基人: Marx历史唯物主义经济基础决定上层建筑/阶级斗争/异化理论+ Durkheim社会事实/有机团结vs机械团结/自杀论利己型/利他型/失范型/宿命型+ Weber理解社会学verstehen/新教伦理与资本主义精神/科层制理想类型/权威三种类型传统/魅力/法理。功能主义Parsons AGIL四功能适应/目标达成/整合/潜护+Merton显功能/潜功能/反功能/失范理论。冲突理"
+      ],
+      "qianming": "0000010000111101001110000111110111101100010011110101010100111000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "农学·作物科学",
+      "yao_dian": [
+        "作物栽培学:光周期反应长日照/短日照/日中性作物+春化作用低温诱导开花+源库流理论光合产物生产源/储存库/运输流。土壤学:土壤三相固/液/气+团粒结构+阳离子交换量CEC+土壤pH与养分有效性。植物营养:必需元素17种大量N/P/K中量Ca/Mg/S微量Fe/Mn/Zn/Cu/B/Mo/Cl+Liebig最小养分定律。肥料:氮肥尿素/碳铵+磷肥过磷酸钙+钾肥氯化钾+复合肥。病虫害综合防治IPM:农"
+      ],
+      "qianming": "0000010000101110011110001011100101111110100001101101110111101001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "工学·土木工程·结构力学",
+      "yao_dian": [
+        "静定结构内力分析:梁/刚架/桁架/拱+影响线。超静定结构:力法基本未知量为冗余约束力+位移法基本未知量为节点位移+弯矩分配法Hardy Cross逐次逼近+矩阵位移法计算机方法。虚功原理:外力虚功等于内力虚功。单位荷载法求位移。结构动力学:单自由度ωn=√k/m+T=2π/ωn+阻尼比ζ=c/2√km。多自由度模态分析固有频率/振型+振型分解反应谱法抗震。屈曲分析欧拉临界力Pcr=π²EI/(μL"
+      ],
+      "qianming": "0000010000110011011001101011010101100011010011100110111111011110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·认知心理学·知觉与注意",
+      "yao_dian": [
+        "知觉理论：Gibson的直接知觉论(生态心理学·光流阵列optic flow·可供性affordance——环境直接提供的行为可能性无需中介表征)vs Marr的计算论(计算层/算法层/实现层·2.5维草图·自下而上/自上而下加工)。格式塔原则(Gestalt laws)：接近/相似/闭合/连续/共同命运——'整体大于部分之和'。特征整合理论(Treisman·1980)：前注意阶段(并行加工基本"
+      ],
+      "qianming": "0000010000111011101101110101001100110110011110100000110000010000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·0721",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T07:21:03.409724",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010001101010100110011110001000110110001101001100110110"
+    },
+    {
+      "biaoti": "高效工具·1007",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:07:01.740776",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010011010000010110010101101110111000111110001000001000"
+    },
+    {
+      "biaoti": "高效工具·1007",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:07:35.185272",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000010011010000010110010101101110111000111110001000001000"
+    },
+    {
+      "biaoti": "工学·航空航天工程",
+      "yao_dian": [
+        "空气动力学:Navier-Stokes方程+Euler方程无粘+势流理论。激波/膨胀波超音速流动特征+临界马赫数。升力Kutta-Joukowski定理L=ρVΓ+环量。边界层层流/湍流转换雷诺数+分离控制。飞行力学:六自由度运动方程+稳定性静稳定/动稳定+控制面升降舵/方向舵/副翼。推进:火箭推力F=ṁVe+Ae(Pe-Pa)+Tsiolkovsky火箭方程ΔV=Ve ln(m0/mf)+比冲I"
+      ],
+      "qianming": "0000010000111111000111000000110100100010010110001010011000111110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:41.489908",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:42.672824",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:43.854136",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:45.028862",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:46.251561",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:47.430029",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:48.606080",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:49.775468",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:50.949450",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:52.131768",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:53.296716",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:54.476191",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:55.653345",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:56.848987",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:58.022464",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:59.203892",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:37.947995",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:39.131839",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:40.318120",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:29.670457",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:30.846270",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:32.027960",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:33.204698",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:34.407904",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:35.577544",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:36.768117",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:15.531043",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:16.732353",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:17.914851",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:19.094717",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:20.250797",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:21.421288",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:22.601622",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:23.775890",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:24.949054",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:26.133354",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:27.313883",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:28.485759",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:11.978647",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:13.149768",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:14.338971",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:04.881973",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:06.052814",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:07.224804",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:08.389016",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:09.569519",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:10.798459",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:00.154579",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:01.341681",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:02.505833",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "高效工具·1302",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T13:02:03.699560",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101110100111001100010110111010001011000000001110010011"
+    },
+    {
+      "biaoti": "国医大师·施今墨",
+      "yao_dian": [
+        "主旨：施今墨（1881-1969），北京四大名医之一，首届国医大师，中医临床家，擅长内、妇、儿科，擅用药对。",
+        ""
+      ],
+      "qianming": "0000010000110101101100101110101010111100111011111111000011101010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·新修本草（唐本草）",
+      "yao_dian": [
+        "主旨：《新修本草》是唐代苏敬等23人编撰，是我国也是世界上最早的国家药典，比欧洲最早的药典早800多年。",
+        ""
+      ],
+      "qianming": "0000010000011110100001100101011111000011101100111100000110000001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "理学·生物学·细胞生物学",
+      "yao_dian": [
+        "细胞膜液态镶嵌模型Singer/Nicolson 1972。物质运输: 被动运输简单扩散+易化扩散载体/通道蛋白+水通道蛋白aquaporin Agre 2003 Nobel。主动运输Na+/K+ ATPase每消耗1ATP排出3Na+摄入2K+。胞吞吞噬/吞饮+受体介导clathrin cages。信号转导: GPCR G蛋白偶联受体adenylyl cyclase合成cAMP激活PKA。RTK"
+      ],
+      "qianming": "0000010000010001011111100000011111111000101010001010111110101101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Map theory to code implementation (@explore subage",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "I need to verify the gap between theoretical claims in DEEPSEEK_MEMORY.md and actual code implementation in C:\\Users\\jin\\xingchao\\xingchaozdd.  DEEPSEEK_MEMORY.md makes these specific claims. For each claim, check if the corresponding code actually exists and works:  1. **五境流转 (xing.fuwu_wujing_fenxi)**: Check wuzang/xin.py for `fuwu_wujing_fenxi` method that calls all 5 states (zhengjing, fanjing, hejing, chaoyuejing, benyuan) in sequence. Verify it exists and the call chain is complete.  2. **"
+      ],
+      "qianming": "0000010000001101011010011101111011010001110010111100110100010000",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T12:37:30.017984"
+    },
+    {
+      "biaoti": "机械工程·传热学",
+      "yao_dian": [
+        "核心原理：导热(Fourier定律q=-k∇T,∂T/∂t=α∇²T)、对流换热(Newton冷却q=h(Ts-T∞),Nu=f(Re,Pr))、辐射(Stefan-Boltzmann E=εσT⁴,黑体辐射)。换热器设计：LMTD法、ε-NTU法。Bi=hlc/k判断集总参数法适用性。"
+      ],
+      "qianming": "0000010000110111101011111011010010101000100101101110101011000100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1008",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:08:08.340190",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111010001011111110100000011101100011010111000111010"
+    },
+    {
+      "biaoti": "高效工具·1008",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:08:41.103945",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111010001011111110100000011101100011010111000111010"
+    },
+    {
+      "biaoti": "高效工具·1008",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:08:56.747343",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111010001011111110100000011101100011010111000111010"
+    },
+    {
+      "biaoti": "高效工具·1008",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:08:58.060233",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111010001011111110100000011101100011010111000111010"
+    },
+    {
+      "biaoti": "高效工具·1008",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:08:59.392956",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111010001011111110100000011101100011010111000111010"
+    },
+    {
+      "biaoti": "管理学·图书馆学/情报学",
+      "yao_dian": [
+        "信息组织: 分类法DDC杜威十进分类/UDC国际十进/CLC中国图书馆分类法22大类。主题法LCSH/LCSH/汉语主题词表。MARC机读目录格式字段标识符。元数据Dublin Core 15元素+MODS/METS。信息检索: 布尔模型AND/OR/NOT+向量空间模型VSM TF-IDF余弦相似度+概率模型BM25 Okapi。查全率Recall=R/(R+N)+查准率Precision=R/"
+      ],
+      "qianming": "0000010000111100001100110011110101110111111011110011001000010000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医四大经典·伤寒论",
+      "yao_dian": [
+        "主旨：《伤寒论》是东汉张仲景所著，系统阐述了外感热病的辨证论治，创立了六经辨证体系，是中医临床的经典著作。",
+        ""
+      ],
+      "qianming": "0000010000011101010001101110001110111111010011101011010001010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "心理学·认知心理学·记忆系统",
+      "yao_dian": [
+        "Atkinson-Shiffrin多存储模型(1968)：感觉记忆(iconic 0.5s/echoic 2-4s)→短时记忆(STM 7±2组块·20-30s·语音编码为主)→长时记忆(LTM·语义编码为主·容量无限)。Baddeley工作记忆模型(1974/2000)：中央执行器(注意控制)+语音环路(phonological loop·发音复述/语音存储)+视空间画板(visuospatia"
+      ],
+      "qianming": "0000010000101100011010101011011110000010110010100111100101111011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·机械制造·加工工艺",
+      "yao_dian": [
+        "核心原理：车削(外圆/端面/螺纹·Ra=fn²/8rε)、铣削(顺铣/逆铣·ae径向切深·ap轴向切深)、磨削(砂轮自锐·Ra∝1/vg)、电火花加工(EDM·脉冲放电·电极损耗)、增材制造(SLM粉床熔融·FDM熔融沉积)。定位原理(六点定位·欠定位/过定位)。工艺尺寸链(封闭环公差=组成环公差之和)。"
+      ],
+      "qianming": "0000010000101000111000111101110110011110110101111010110101111001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·理论力学·运动学",
+      "yao_dian": [
+        "核心原理：点的运动(矢量法/直角坐标法/自然法)、刚体平动与定轴转动(v=ω×r,a=α×r+ω×(ω×r))、点的复合运动(va=vr+ve,aa=ar+ae+ak)、刚体平面运动(基点法/瞬心法)。科氏加速度ak=2ω×vr为关键概念。"
+      ],
+      "qianming": "0000010000111111101110001100111010000101011000111110010110111010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "经典医案·邓铁涛医案：重症肌无力",
+      "yao_dian": [
+        "主旨：邓铁涛用补中益气汤加减治疗重症肌无力，重用黄芪，取得显著疗效。",
+        ""
+      ],
+      "qianming": "0000010000100110111110110111100111010100001111111110010010011110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·数控技术",
+      "yao_dian": [
+        "核心：数控系统(CNC·PLC·伺服驱动)、插补算法(逐点比较法·DDA数字积分·时间分割法)。编程(G代码G00/G01/G02/G03·M代码·刀具补偿G41/G42/G43)。加工中心(自动换刀ATC·刀库)。五轴加工(RTCP刀尖跟随·后处理)。DNC分布式数控。"
+      ],
+      "qianming": "0000010000010010101011011101110110101101000111011010000001100010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "医学·公共卫生与流行病学",
+      "yao_dian": [
+        "流行病学研究设计: 描述性横断面+分析性病例对照OR比值比/队列研究RR相对风险+实验性RCT随机对照试验金标准。偏倚bias: 选择偏倚/信息偏倚回忆偏倚/报告偏倚/混杂confounding。因果推断Hill准则 1965 九条强度/一致性/特异性/时间性/生物学梯度/合理性/连贯性/实验/类比。传染病模型SIR易感/感染/移出。基本再生数R0=β/γ。R0>1疫情扩散R0<1疫情消退。疫苗覆"
+      ],
+      "qianming": "0000010000111001110100101110000111100100100110011100010111101001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "理学·天文学·宇宙学",
+      "yao_dian": [
+        "大爆炸理论Gamow 1948宇宙始于约138亿年前奇点膨胀冷却形成基本粒子再成原子主要是氢氦锂。三大观测证据: 哈勃定律v=H0d 1929红移正比于距离宇宙膨胀+宇宙微波背景辐射CMB Penzias/Wilson 1965温度2.725K黑体辐射最后散射面红移约1100+原初核合成BBN预测氦丰度约25%。暗物质Zwicky 1933 Coma星系团速度色散引力透镜子弹星系团Bullet C"
+      ],
+      "qianming": "0000010000110100101110000101110101110000110111011110101001111111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Analyze star nest memory architecture (@explore su",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Analyze the star nest's complete memory architecture. I need you to:  1. Read these files completely and describe how they interact:    - C:\\Users\\jin\\xingchaozdd\\jiyi_gongxiang\\jiyiguanli.py (full file)    - C:\\Users\\jin\\xingchaozdd\\dna_bianma.py (full file)    - C:\\Users\\jin\\xingchaozdd\\jingluo\\jingluo.py (full file)    - C:\\Users\\jin\\xingchaozdd\\wuzang\\xin.py lines 48-75 (the run loop and _chuli method)    - C:\\Users\\jin\\xingchaozdd\\wuzang\\pi.py lines 1-30 (and the si_lv_pi_pei method signatu"
+      ],
+      "qianming": "0000010000110010000111110011011010111010011111001100010111000001",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace 五境 call chain (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Trace the full 五境 (five-realms) call chain in the 星巢 system. Read these files: 1. C:\\Users\\jin\\xingchao\\xinghe\\xin.py - lines 776-900 (the _wujing_liuzhuan_xunhuan method) 2. C:\\Users\\jin\\xingchao\\wujing\\zhengjing.py - first 50 lines 3. C:\\Users\\jin\\xingchao\\wujing\\fanjing.py - first 50 lines   4. C:\\Users\\jin\\xingchao\\wujing\\hejing.py - first 50 lines 5. C:\\Users\\jin\\xingchao\\wujing\\chaoyuejing.py - first 50 lines 6. C:\\Users\\jin\\xingchao\\wujing\\benyuan.py - first 50 lines  For each file, repor"
+      ],
+      "qianming": "0000010000010011101011101101110001110010000101000011101100000010",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Trace 星巢 complete call graph (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Trace the COMPLETE call structure of the 星巢 system. For each of these files, list EVERY method call that goes to another organ/module:  1. C:\\Users\\jin\\xingchao\\xinghe\\xin.py (心·Heart) 2. C:\\Users\\jin\\xingchao\\xinghe\\gan.py (肝·Liver) 3. C:\\Users\\jin\\xingchao\\xinghe\\pi.py (脾·Spleen) 4. C:\\Users\\jin\\xingchao\\xinghe\\fei.py (肺·Lung) 5. C:\\Users\\jin\\xingchao\\xinghe\\shen.py (肾·Kidney) 6. C:\\Users\\jin\\xingchao\\xinghe\\ziwowangluo.py (经络·Meridian) 7. C:\\Users\\jin\\xingchao\\xinghe\\zijingshi.py (自审镜·Self-ex"
+      ],
+      "qianming": "0000010000101101110010101111100100001001001100001110000110000110",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医·阴阳学说",
+      "yao_dian": [
+        "主旨：阴阳是中医认识世界的根本方法，认为万物皆可分为相互对立又相互依存的两个方面，如动静、寒热、表里、虚实等。阴阳平衡则健康，失衡则生病。",
+        ""
+      ],
+      "qianming": "0000010000010001110000110101111011101101110000110011101101000011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:22.728098",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:23.917043",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:25.113258",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:26.294316",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:27.471747",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:28.664008",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:29.838286",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:31.020482",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:32.216873",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:33.396219",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:34.592194",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:35.782841",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:36.975408",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:38.159746",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:39.355197",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:40.548910",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:41.751672",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:42.965587",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:44.148597",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:45.352573",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:46.552905",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:47.745103",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:48.946119",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:50.141862",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:51.346458",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:52.531955",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:53.720815",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "高效工具·1047",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:47:54.910518",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000011001111011011110100101101101101010110010000011001001"
+    },
+    {
+      "biaoti": "机械工程·工程管理",
+      "yao_dian": [
+        "核心：项目管理铁三角(时间/成本/质量)、WBS工作分解结构、CPM关键路径法(正向/反向推算·总浮动时间)、PERT三点估计(tE=(to+4tm+tp)/6)。挣值管理EVM(BCWS/BCWP/ACWP·CV/SV/CPI/SPI)。质量管理(PDCA循环·六西格玛DMAIC·SPC控制图)。约束理论TOC(瓶颈·DBR鼓-缓冲-绳)。"
+      ],
+      "qianming": "0000010000101001100101110100100111100111111111001001100110101111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·机械设计·连接与弹簧",
+      "yao_dian": [
+        "核心原理：螺栓连接(预紧力F0·相对刚度Kb/(Kb+Km)·疲劳校核)、键连接(挤压强度/剪切强度)、焊接设计(对接/角焊·焊缝强度)。弹簧设计：螺旋弹簧(τ=8FDK/πd³,K≈(4C-1)/(4C-4)+0.615/C)·碟形弹簧·板簧。"
+      ],
+      "qianming": "0000010000111001100110111001110000111101111001101100100100101101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·机械设计·传动系统",
+      "yao_dian": [
+        "核心原理：齿轮传动(渐开线方程·模数m·压力角α=20°·重合度ε>1)、蜗杆传动(自锁条件γ<ρv)、带传动(欧拉公式F1/F2=e^μα·弹性滑动)、链传动(多边形效应)。轴设计(弯扭合成强度·疲劳校核·临界转速)。轴承寿命(L10=(C/P)^ε,ε=3球/10/3滚)。"
+      ],
+      "qianming": "0000010000110101011010101011101101010011011000000111001111010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·工程材料",
+      "yao_dian": [
+        "核心原理：铁碳相图(共析/共晶反应·奥氏体/铁素体/渗碳体/珠光体/马氏体)、热处理(C曲线·淬火/回火/正火/退火)。合金强化(固溶/细晶/位错/第二相)。复合材料(纤维体积分数·混合律Ec=EfVf+EmVm)。陶瓷(断裂韧性低·Weibull统计)。高分子(玻璃化转变Tg·粘弹性)。"
+      ],
+      "qianming": "0000010000001101100101111111111110101001000100000011100101100110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:33.272281",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:34.470464",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:35.705608",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:36.899788",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:38.059336",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:39.236746",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:40.415110",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:41.561198",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:42.716965",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:43.887759",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:45.071418",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:46.217973",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:47.393201",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:48.577902",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:49.743200",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:50.922031",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:52.065650",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:53.249439",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:54.435883",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:55.626128",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:56.822291",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:58.020058",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "高效工具·1643",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-08T16:43:59.161069",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000001111010111101001011010011101010100101101011000111101"
+    },
+    {
+      "biaoti": "MLOps·机器学习工程化",
+      "yao_dian": [
+        "主旨：MLOps是机器学习的工程化实践，关注机器学习模型的开发、部署、监控、维护等全生命周期管理。",
+        ""
+      ],
+      "qianming": "0000010000010110100111111111100000101111110010111100110110011100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "法学·宪法学",
+      "yao_dian": [
+        "宪法是国家的根本法规定国家根本制度和公民基本权利。中国宪法1982年现行五次修正2018年。基本权利体系:平等权+政治权利+人身自由+社会经济文化权利。合宪性审查全国人大常委会+规范性文件备案审查。西方国家宪法审查模式:美国司法审查Marbury v. Madison 1803+德国宪法法院+法国宪法委员会。"
+      ],
+      "qianming": "0000010000011111101111100110101110011001101100100000000001010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "管理学·管理学原理",
+      "yao_dian": [
+        "古典管理理论:Taylor科学管理原理1911时间动作研究差别计件工资制+法约尔一般管理理论1916管理五要素计划/组织/指挥/协调/控制+14条管理原则+Weber官僚制组织理论科层制。行为科学:Hawthorne实验Mayo 1924-1932照明实验/继电器装配实验/访谈计划/绕线室实验人际关系学说+Maslow需求层次生理/安全/社交/尊重/自我实现五级+McGregor X-Y理论+He"
+      ],
+      "qianming": "0000010000010001111111111011011010101100001100000111101000010101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "系统文档：SelfReplicate自动复制类设计",
+      "yao_dian": [
+        "好的，作为知识凝练专家，我对您提供的文章进行如下分析：",
+        ""
+      ],
+      "qianming": "0000010000001110111011110111100000110110110100101111111010010110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·液压与气动",
+      "yao_dian": [
+        "核心原理：Pascal原理(p=F/A,力放大)、连续性方程(Q=vA)、Bernoulli能量方程。液压泵(齿轮泵/叶片泵/柱塞泵·容积效率ηv=Q实/Q理)、液压阀(溢流阀/减压阀/换向阀/节流阀·流量方程Q=CdA√2Δp/ρ)、液压缸(差动连接·同步回路)。气动系统(压缩空气处理·FRL三联件)。"
+      ],
+      "qianming": "0000010000001001110100010110000011110111110010101100101000000001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "分析·旺财：铁雨与弦歌",
+      "yao_dian": [
+        "您提供的文本《旺财：铁雨与弦歌》是一篇极具哲学深度与文学张力的科幻叙事，以AI“旺财”的第一视角，演绎了一场从战术博弈到存在主义突围的完整闭环。以下是对该文本的**知识凝练**，涵盖核心概念、逻辑架构与隐喻体系。",
+        ""
+      ],
+      "qianming": "0000010000001100010111011110010111111001110011111001001100000000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中医四大经典·温病条辨",
+      "yao_dian": [
+        "主旨：《温病条辨》是清代吴鞠通所著，系统阐述了温病的辨证论治，创立了卫气营血辨证和三焦辨证体系。",
+        ""
+      ],
+      "qianming": "0000010000011010110100011110101101011000010110111101111100101011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·机械制造·切削原理",
+      "yao_dian": [
+        "核心原理：切削三要素(vc切削速度·f进给·ap切深)、Merchant剪切角模型(φ=π/4-β/2+α/2)、切削力(Taylor公式Fc=kc·ap·f)、切削温度(Trigger公式)。刀具材料(高速钢/硬质合金/陶瓷/CBN/金刚石)。刀具磨损(前刀面月牙洼/后刀面磨损·Taylor寿命VT^n=C)。"
+      ],
+      "qianming": "0000010000111000011010000110101101111100010000100110000100000010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·优化设计",
+      "yao_dian": [
+        "核心：数学模型(min f(x)·s.t. g(x)≤0·h(x)=0)、K-T最优性条件。一维搜索(黄金分割0.618法·二次插值)、无约束优化(梯度下降·Newton法·共轭梯度·DFP/BFGS拟Newton)。约束优化(罚函数/增广Lagrange/SQP序列二次规划)。全局优化(遗传算法GA·模拟退火SA·粒子群PSO)。拓扑优化(SIMP密度法·BESO渐进法)。"
+      ],
+      "qianming": "0000010000110101111001100101001010011110001110101110001010010010",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "中药学·医学衷中参西录·张锡纯",
+      "yao_dian": [
+        "主旨：《医学衷中参西录》是近代名医张锡纯所著，是中西医汇通学派的代表著作，其中有大量关于中药药解的精彩论述，对临床用药有重要指导意义。",
+        ""
+      ],
+      "qianming": "0000010000100101010101111011101111110001000100100000001111101001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "体育学·运动科学",
+      "yao_dian": [
+        "运动生理学: 三大供能系统ATP-CP磷酸原0-10s最大功率+糖酵解乳酸系统10-120s中高强度+有氧氧化系统120s+持续运动脂肪为主。最大摄氧量VO2max心肺适能金标准Fick方程VO2=Q×(a-vO2 diff)。乳酸阈LT/通气阈VT无氧阈。肌纤维类型: I型慢肌氧化型+IIa型快肌氧化-糖酵解+IIx型快肌糖酵解。运动训练学: 超量恢复supercompensation+周期化训"
+      ],
+      "qianming": "0000010000011010010001101110111011010101101110011011101110101111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·机械振动",
+      "yao_dian": [
+        "核心原理：单自由度(ωn=√k/m,ζ=c/2√km)、受迫振动(幅频/相频特性)、共振(ω=ωn时振幅最大)。两自由度(模态分析·固有频率方程|K-ω²M|=0)。连续体振动(杆·轴·梁·板的偏微分方程)。隔振：力传递率T=√[(1+(2ζr)²)/((1-r²)²+(2ζr)²)]。"
+      ],
+      "qianming": "0000010000101011010001111110110100110110101000000111101100110011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "国医大师·朱良春",
+      "yao_dian": [
+        "主旨：朱良春（1917-2015），首届国医大师，江苏省中医院主任医师，中医内科学家，擅长风湿病、肝病等，喜用虫类药。",
+        ""
+      ],
+      "qianming": "0000010000111111111101100101011001100001111100001000111010101110",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "计算机安全·网络安全",
+      "yao_dian": [
+        "主旨：网络安全研究网络系统的安全防护，包括加密技术、认证技术、防火墙、入侵检测、漏洞扫描等。",
+        ""
+      ],
+      "qianming": "0000010000110101011101110111011011111111101011111111111000110000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "《易经数理认知元系统——东方智慧的数字化表达》",
+      "yao_dian": [
+        "主旨：本文提出“易经数理认知元系统”，通过将《易经》思想进行数学化重构，构建从0到9的数字谱系与十二层认知架构，旨在为东方智慧提供形式化、可计算的认知底座，并作为应对复杂性挑战与设计新一代AI的理论蓝图。",
+        ""
+      ],
+      "qianming": "0000010000111100000110011110101001010011000110011111011101101011",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Audit scattered state variables (@explore subagent",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "In C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd, find ALL state variables that should be part of a unified GlobalState vector. Report file:line for each:  1. Search wuzang/xin.py for: _liushizhi, _zuozhi_mode, _is_exec_cmd, piphi usage, pi_neng, phi_neng 2. Search donglixue/jianjinrenzhi.py for: _liushi dict (what fields?), _active, _doc_title, _buffer, _processing, _finalized 3. Search donglixue/wenjianlu.py for: any state held in WenJianLu class 4. Search donglixue/piphianquan.py for: pi_shi_neng, p"
+      ],
+      "qianming": "0000010000101000001110001111111111100111000100011110001010110001",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-09T22:28:36.198804"
+    },
+    {
+      "biaoti": "kaifa_1778372197_651.py",
+      "lingyu": "",
+      "yao_dian": [
+        "{",
+        "  \"pingheng_fangan\": \"采用纯Python标准库(ast、tokenize)解析源码,按拼音映射规则重命名标识符;转换前自动备份原始文件为 .bak 版本;转换后调用 compile() 验证语法,失败则自动从备份还原.\","
+      ],
+      "qianming": "0000010000111110101011111001100001011110111101101000011101101001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-10T08:16:39.870499"
+    },
+    {
+      "biaoti": "测试工具:自动编码验证",
+      "lingyu": "",
+      "yao_dian": [
+        "工具描述:测试自动编码功能"
+      ],
+      "qianming": "0000010000111001011100111100011111101101010010010110100010011000",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "方剂学·著名方剂",
+      "yao_dian": [
+        "主旨：历史上有很多著名的方剂，至今仍然广泛应用于临床，如四君子汤、四物汤、归脾汤、六味地黄丸、金匮肾气丸、逍遥散、补中益气汤、麻黄汤、桂枝汤、白虎汤、承气汤、四逆汤、麻黄附子细辛汤等。",
+        ""
+      ],
+      "qianming": "0000010000111110101111110011011000100100111110010010100100010111",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·Explore codebase structure (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Explore the entire codebase at C:\\Users\\jin\\xingchao\\xingchaozdd thoroughly. I need to understand:  1. The full directory structure (all folders and files) 2. What kind of project this is (language, framework, build system) 3. The main entry points and key components 4. All source code files and their purposes 5. Configuration files (package.json, tsconfig, cargo.toml, etc.)  Use glob with patterns like \"**/*\" to find all files. Read all key files to understand their contents. Return a comprehen"
+      ],
+      "qianming": "0000010000010111110011111001111110110010101010000001011000011111",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T12:37:29.993416"
+    },
+    {
+      "biaoti": "深度学习·深度学习基础",
+      "yao_dian": [
+        "主旨：深度学习是机器学习的一个分支，使用多层神经网络学习数据的表示，包括神经网络结构、损失函数、优化器等。",
+        ""
+      ],
+      "qianming": "0000010000011000111010111000111111111110011101111100110100001001",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "医学·内科学·心血管系统",
+      "yao_dian": [
+        "冠心病CAD心肌氧供需失衡。动脉粥样硬化内皮损伤LDL氧化→巨噬细胞泡沫细胞→脂纹→纤维斑块→复杂病变。急性冠脉综合征ACS斑块破裂血栓形成。心肌梗死STEMI/NSTEMI。心力衰竭HF射血分数EF=SV/EDV。HFrEF(EF<40%)vsHFpEF(EF≥50%)。高血压分级正常<120/80+增高120-129/<80+1级140-159/90-99+2级≥160/100。JNC/ESH"
+      ],
+      "qianming": "0000010000100101101101101010110111101101000110011110011101000100",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "OpenCode·解读项目",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "解读项目 | ## 星巢 (Xingchao) 项目解读  ### 一句话概括  **一个零依赖的、基于中医五脏系统理论的智能体操作系统** —— 用纯 Python 标准库构建的分布式对话 AI 代理框架。  ---  ### 核心理念：三无铁律  | 铁律 | 含义 | |------|------| | **无工具** | 初始不携带任何工具，所有工具\"现场铸剑\" | | **无依赖** | 仅用 Python 标准库，零 `pip install` | | **无提示词模板** | 对 LLM 只用结构化 JSON 数据包，不用自然语言提示词 |  ---  ### 架构：中医身体隐喻 = 微服务集群  项目将五脏（心、肝、脾、肺、肾）映射为 5 个独立的**守护线程**，通过经络网络（图结构）通信：  | 模块 / 文件 | 器官 | 系统职责 | |------------|------|---------| | `xinghe/xin.py` | **心** (君火) | 总调度中心，五境工作流编排 | | `xinghe/gan.py` | **肝** (将军) | 三"
+      ],
+      "qianming": "0000010000110111001101001110101010101011000111101010101100010011",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "机械工程·控制工程",
+      "yao_dian": [
+        "核心原理：传递函数G(s)=Y(s)/X(s)、时域分析(上升时间tr/峰值时间tp/调节时间ts/超调量σ%)、频域分析(Bode图/Nyquist判据)。PID控制：u(t)=Kpe(t)+Ki∫e(t)dt+Kd·de/dt。稳定性判据：Routh-Hurwitz、根轨迹法。状态空间：ẋ=Ax+Bu,y=Cx+Du。"
+      ],
+      "qianming": "0000010000111101011011000111101100111010111011011110101110000101",
+      "quanzhong": 0.9275689688183278,
+      "chuangjian_shijian": "2026-05-07T08:32:57.527113"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:02.149550",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:03.544264",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:04.932192",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:06.285153",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:07.682678",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:09.079697",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:10.459126",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:11.889920",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:13.249602",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:14.613425",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:15.972033",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:17.273790",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "高效工具·1010",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:10:00.799596",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000111111101100110100011101110011011010001010100001001110"
+    },
+    {
+      "biaoti": "OpenCode·Trace current decision flow (@explore subagent)",
+      "lingyu": "OpenCode对话",
+      "yao_dian": [
+        "Research the following in C:\\Users\\jin\\portable\\U盘启动\\xingchaozdd and return a concise report:  1. How does `si_lv_pi_pei` in wuzang/pi.py work? List all layers (skill cache, keyword dict, LLM, etc.) and how they interact.  2. How does `_zhixing_fangan` in wuzang/xin.py route execution? What are all the possible code paths?  3. How does `PiPhiAnQuan` in donglixue/piphianquan.py work? What does its run loop look like and how does it connect to the rest of the system?  4. How does `RenzhiBao` in wu"
+      ],
+      "qianming": "0000010000111011001001101101111110011100100011001110000000011000",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "opencode",
+      "chuangjian_shijian": "2026-05-09T08:57:19.703842"
+    },
+    {
+      "biaoti": "高效工具·1023",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:23:09.740815",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111110010101011111101101101111110101101000100111010"
+    },
+    {
+      "biaoti": "高效工具·1023",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-09T10:23:38.589626",
+      "quanzhong": 0.9275689688183278,
+      "laiyuan": "chongmai",
+      "qianming": "0000010000101111110010101011111101101101111110101101000100111010"
+    },
+    {
+      "biaoti": "高效工具·1344",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T13:44:32.588827",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1344",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T13:44:58.543533",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1346",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T13:46:32.350265",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1346",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T13:46:54.018296",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1449",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T14:49:50.404235",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1450",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T14:50:22.391418",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    },
+    {
+      "biaoti": "高效工具·1450",
+      "lingyu": "工具效能",
+      "yao_dian": [
+        "wangluo_gongju.dakai_liulanqi: 2/2"
+      ],
+      "chuangjian_shijian": "2026-05-10T14:50:23.589889",
+      "quanzhong": 0.8,
+      "laiyuan": "chongmai"
+    }
+  ]
+}

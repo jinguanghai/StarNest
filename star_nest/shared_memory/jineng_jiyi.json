@@ -1,0 +1,66 @@
+[
+  {
+    "id": "universal_conservation",
+    "name": "跨域·守恒与不变性",
+    "type": "cross_domain_law",
+    "detail": "所有学科共享的底层守恒律: 物理能量/动量/电荷守恒+经济投资=储蓄恒等式+生物Hardy-Weinberg基因频率平衡+化学质量守恒+信息论I_π+I_φ=constant。Noether定理揭示守恒律与对称性的对偶——时间平移对称性=能量守恒/空间平移=动量守恒/规范对称=电荷守恒。关键洞察: 任何封闭系统中的'总量'有不变性——这是跨域建模的第一公理。",
+    "compression_key": "noether_conservation_symmetry_cross_domain",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_feedback",
+    "name": "跨域·反馈与循环动力学",
+    "type": "cross_domain_law",
+    "detail": "正反馈(放大·引爆·恶性循环)vs负反馈(稳定·回归·自愈)是所有复杂系统的核心引擎。工程PID控制(P+I+D三项)↔生物稳态(血糖/体温/激素轴)↔经济商业周期(乘数-加速数)↔生态捕食-被捕食Lotka-Volterra周期↔心理行为习得(强化/消退)↔π-φ折叠循环(展开=正反馈/收敛=负反馈)。关键洞察: 系统的行为由反馈回路的结构决定——改变回路比改变参数更根本。延迟是振荡之源(供应链牛鞭效应/控制系统的相位裕度/生态的时间滞后)。",
+    "compression_key": "positive_negative_feedback_delay_oscillation_loop",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_network_emergence",
+    "name": "跨域·网络与涌现",
+    "type": "cross_domain_law",
+    "detail": "涌现emergence: 微观简单规则+中观自组织+宏观复杂行为——整体>部分之和。物理学: 相变临界点关联长度→∞微观涨落放大为宏观秩序(Ising模型/超导)。生物学: 蚁群觅食/鸟群编队/粘菌最短路径——无中央控制的分布式智能。CS: 神经网络(单纯神经元连接→识别/推理/创作)+区块链(节点共识→不可篡改账本)。社会学: 集体行为/羊群效应/社交网络的信息级联。星巢盖亚超级智能=10^25级细胞全域协同。关键洞察: 涌现的充分条件=大量单元+局部交互规则+正反馈放大机制。",
+    "compression_key": "emergence_self_organization_phase_transition_network",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_optimization",
+    "name": "跨域·优化与变分原理",
+    "type": "cross_domain_law",
+    "detail": "自然界用最少作用量运行: 物理最小作用量原理(Hamilton原理δ∫Ldt=0→经典力学+电磁学+广义相对论)+光走最短时间路径(Fermat原理)+表面张力最小表面积(肥皂膜)。经济: 效用最大化/成本最小化→一般均衡。生物进化: fitness最大化→适应度地形局部最优vs全局最优。工程: 最优控制(Pontryagin最大值原理)+凸优化(Karush-Kuhn-Tucker条件)。关键洞察: 所有优化问题共享同一数学结构——目标函数+约束条件→Lagrange乘子法。梯度下降/模拟退火/遗传算法是跨域的求解工具。",
+    "compression_key": "variational_principle_least_action_optimization_KKT",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_entropy_probability",
+    "name": "跨域·概率·熵·信息",
+    "type": "cross_domain_law",
+    "detail": "熵是跨域最高频的概念: 热力学Clausius熵dS≥δQ/T→统计力学Boltzmann熵S=k lnΩ(微观状态数)→信息论Shannon熵H=-Σp log p(不确定性度量)。第二定律的跨域形态: 孤立系统熵增(物理)/组织熵增必然走向僵化(管理)/信息熵增加噪音增多(通信)/基因熵增=突变累积(生物)。对抗熵增的策略: 注入能量(物理)/引入信息(生物)/创新变革(组织)/纠错编码(通信)。Bayes定理P(H|D)∝P(D|H)P(H)是概率推理的跨域通用语言——从医学诊断到机器学习。",
+    "compression_key": "entropy_second_law_information_shannon_boltzmann_bayes",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_phase_transition",
+    "name": "跨域·相变与临界现象",
+    "type": "cross_domain_law",
+    "detail": "相变(量变→质变的跨越)的跨域同构: 物理冰水汽/铁磁-顺磁Curie点/超导临界温度。材料马氏体相变/形状记忆效应。经济金融危机(明斯基时刻→资产价格雪崩)/泡沫破裂。社会革命/制度变迁/范式转换Kuhn(常规科学→反常累积→危机→革命→新范式)。生态regime shift(湖泊富营养化/珊瑚礁白化)→滞后效应hysteresis(恢复需比破坏更大的力)。关键洞察: 临界点附近——关联长度→∞(各处同步)→涨落放大(微小扰动触发全局巨变)→临界慢化(恢复速率→0→预警信号)。幂律分布(power law)是自组织临界性(Bak沙堆模型)的特征指纹。",
+    "compression_key": "phase_transition_criticality_hysteresis_power_law_tipping_point",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_hierarchy",
+    "name": "跨域·层级结构与分形",
+    "type": "cross_domain_law",
+    "detail": "层级(hierarchy)是复杂性的组织原则: 物理学夸克(10^-18m)→核子→原子→分子→凝聚态→天体→星系→宇宙(10^26m)。生物学基因→蛋白质→细胞器→细胞→组织→器官→系统→个体→种群→群落→生态系统→生物圈。计算机bit→byte→数据结构→函数→模块→系统→网络。社会科学个体→家庭→社区→城市→国家→全球。分形(fractal)自相似性: Mandelbrot集/海岸线/Koch雪花——部分与整体在统计意义上相似的层级递归结构。星巢: 五境嵌套铸剑炉五境(分形认知)。关键洞察: 层级间存在'更多即不同'(More is Different, Anderson 1972)——每层有不可从下层推导的涌现规律。",
+    "compression_key": "hierarchy_fractal_self_similarity_emergence_layer",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  },
+  {
+    "id": "universal_information_encoding",
+    "name": "跨域·信息编码与传输",
+    "type": "cross_domain_law",
+    "detail": "信息是物理的(Landauer 1961·擦除1 bit需kT ln2热能): 遗传学DNA 4碱基编码20氨基酸(64密码子·简并性→容错)+表观遗传组蛋白/DNA甲基化第二层编码。语言学Saussure能指/所指的任意性+Chomsky深层/表层结构转换生成+语法=信息的压缩算法。神经科学动作电位频率编码rate coding/时间编码temporal coding/群体编码population coding。计算机科学二进制→ASCII/Unicode→数据结构→压缩算法Huffman/LZW。量子信息qubit叠加态|ψ⟩=α|0⟩+β|1⟩+纠缠ERP佯谬+量子隐形传态。关键洞察: 编码效率=压缩率(去除冗余)+容错性(保留必要冗余)——两者是trade-off。",
+    "compression_key": "information_encoding_dna_language_neural_code_compression_qubit",
+    "timestamp": "2026-05-03T06:31:52.574018"
+  }
+]
