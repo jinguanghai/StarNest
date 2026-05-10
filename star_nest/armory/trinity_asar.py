@@ -86,7 +86,7 @@ def yunxingti_auth(port):
     return {
         "deepseek": {
             "type": "api",
-            "key": "sk-c42514915ac64652aa3225fa1efe2450",
+            "key": "YOUR_DEEPSEEK_API_KEY_HERE",
             "url": f"http://localhost:{port}/v1"
         }
     }
