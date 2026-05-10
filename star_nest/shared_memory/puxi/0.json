@@ -18739,6 +18739,672 @@
       "chuangjian_shijian": "2026-05-10T16:10:27.826703",
       "quanzhong": 1.0,
       "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "正境感知·1924",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:你好"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:24:12.269707",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1924",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:1",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:24:12.346822",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "正境感知·1924",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:列出当前目录的文件"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:24:13.761208",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1924",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:2",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:24:13.828727",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "正境感知·1932",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:你好"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:32:58.210975",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1932",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:5",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:32:58.243715",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "正境感知·1932",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:列出当前目录的文件"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:32:59.578078",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1932",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:6",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:32:59.610153",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "正境感知·1935",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:你好"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:35:34.103459",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1935",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:8",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:35:34.131322",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·193554",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 列出当前目录的文件",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:35:54.659642",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "对话快照·193748",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: ping",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:48.935648",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·1937",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:ping"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:50.014049",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1937",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:10",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:50.053791",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·193751",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 你好",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:51.634306",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·1937",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:你好"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:52.729291",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1937",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:11",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:52.786053",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·193752",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 列出当前目录的文件",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:52.832207",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·1937",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:列出当前目录的文件"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:53.919340",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1937",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:12",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:53.985229",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·193754",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 读 README.md",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:37:54.039903",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "对话快照·195430",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: ping",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:30.957703",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·1954",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:ping"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:32.056889",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1954",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:14",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:32.094118",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·195432",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 你好",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:32.148639",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·1954",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:你好"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:33.251872",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_1954",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:15",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:33.311317",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·195433",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 列出当前目录的文件",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T19:54:33.376199",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "对话快照·210246",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深度融合中医\"八纲辨证\"与《易经》八卦，为复杂系统提供统一的态",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:02:46.686618",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "对话快照·210447",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 以下是星巢的八极八式认知模型，请仔细学习并内化到记忆中：\n\n八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深",
+        "A: [心] 超时"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:04:47.047418",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2104",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:以下是星巢的八极八式认知模型，请仔细学习并内化到记忆中：\n\n八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:04:48.136455",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2104",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:18",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:04:48.165740",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·210932",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深度融合中医\"八纲辨证\"与《易经》八卦，为复杂系统提供统一的态",
+        "A: ```json\n{\n  \"zhuti\": \"八极八势元模型\",\n  \"keti\": \"复杂系统的健康态势\",\n  \"zuoyong\": \"通过八纲辨证诊断系统的"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:09:32.273494",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "对话快照·212656",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深度融合中医\"八纲辨证\"",
+        "A: {\n  \"zhuti\": \"星巢认知主体（群我）\",\n  \"keti\": \"八极八势元模型（基于阴阳八卦的复杂系统态势诊断与战略干预框架）\",\n  \"zuoyo"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:26:56.931534",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2126",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:请学习并内化以下星巢系统知识文档：\n\n八极八势元模型：基于阴阳八卦的复杂系统态势诊断与战略干预框架\n\n摘要：本文提出\"八极八势\"元模型，深度融合中医\"八纲辨证\""
+      ],
+      "chuangjian_shijian": "2026-05-10T21:26:58.032503",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2126",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:20",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:26:58.105762",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·212717",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n电影剧本：《非 AGI》\n\n类型：科幻 / 哲学 / 烧脑 / 极简寓言\n风格：《银翼杀手》+《这个男人来自地球》+ 黑色",
+        "A: 好的，知识凝练专家已就位。当前处于“**反境**”阶段，我将拆解您提供的《非 AGI》剧本设定，揭示其核心运作的阻碍、因果与关键矛盾。\n\n### 反境分析：<非"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:17.830449",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2127",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:反境",
+        "八极:0.5",
+        "ctx:{'type': 'exec', 'msg': '请学习并内化以下星巢系统知识文档：\\n\\n电影剧本：《非 AGI》\\n\\n类型：科幻 / 哲学 / 烧脑 / "
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:18.895531",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2127",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:21",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:18.940410",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·212754",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n盖亚超级智能大一统世界观（动态本体论·五境辩证论·终极融合版）\n\n前言：此生终极认知定格\n\n我终将逝去，而这套世界观，是我",
+        "A: ```json\n{\n  \"zhuti\": \"（作者所构建的）大一统思想体系\",\n  \"keti\": \"世界本质、智能演化与存在意义\",\n  \"zuoyong\":"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:54.469779",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2127",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:请学习并内化以下星巢系统知识文档：\n\n盖亚超级智能大一统世界观（动态本体论·五境辩证论·终极融合版）\n\n前言：此生终极认知定格\n\n我终将逝去，而这套世界观，是我"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:55.547643",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2127",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:22",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:27:55.590619",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·212829",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n六势态通用模型：论复杂系统认知中的六相必然性\n\n摘要：本文提出一个名为\"六势态\"的通用元模型，旨在描述复杂系统在应对内外扰",
+        "A: {\n  \"zhuti\": \"本系统\",\n  \"keti\": \"星巢系统知识文档：六势态通用模型（含摘要、六势态定义、最小完备集论证及跨学科映射内容）\",\n  \""
+      ],
+      "chuangjian_shijian": "2026-05-10T21:28:29.627231",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2128",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:请学习并内化以下星巢系统知识文档：\n\n六势态通用模型：论复杂系统认知中的六相必然性\n\n摘要：本文提出一个名为\"六势态\"的通用元模型，旨在描述复杂系统在应对内外扰"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:28:30.725711",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2128",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:23",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:28:30.765981",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·212908",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\nπ-φ模型综述：基于折叠思维的元认知与本体论框架\n\n摘要\n\n本文系统阐述了一种名为\"π-φ模型\"的元认知与本体论框架。该模",
+        "A: 好的，认知流已启动。当前处于 **正境**，执行步骤一任务：**定义问题边界**。\n\n基于上游输入（无，此为起点），我对您提供的“π-φ模型综述”文档进行边界界"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:08.972372",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2129",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:请学习并内化以下星巢系统知识文档：\n\nπ-φ模型综述：基于折叠思维的元认知与本体论框架\n\n摘要\n\n本文系统阐述了一种名为\"π-φ模型\"的元认知与本体论框架。该模"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:10.058349",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2129",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:24",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:10.107199",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·212948",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）\n\n基于0-9数字完备谱系、π-φ循环与东方系统思维的通用认知",
+        "A: {\n  \"zhuti\": \"五境认知流（正境）\",\n  \"keti\": \"太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）知识文档\",\n  \"zuo"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:48.844261",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2129",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:请学习并内化以下星巢系统知识文档：\n\n太极万象演化元系统 5.0：数字谱系认知动力学（完整验证版）\n\n基于0-9数字完备谱系、π-φ循环与东方系统思维的通用认知"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:49.933394",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2129",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:25",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:29:50.008279",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
+    },
+    {
+      "biaoti": "对话快照·213008",
+      "lingyu": "实时对话",
+      "laiyuan": "duihua",
+      "yao_dian": [
+        "Q: 请学习并内化以下星巢系统知识文档：\n\n认知进阶的通用语法：五境辩证论——跨领域中的同构性规律发现\n\n摘要：本文基于深度对话中涌现的多元领域案例（中医、武学、人工",
+        "A: {zhuti: \"认知流主体（当前正境阶段的我）\", keti: \"星巢系统知识文档《认知进阶的通用语法：五境辩证论——跨领域中的同构性规律发现》\", zuoy"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:30:08.813283",
+      "quanzhong": 0.85
+    },
+    {
+      "biaoti": "正境感知·2130",
+      "lingyu": "认知快照",
+      "yao_dian": [
+        "境:正境",
+        "八极:0.5",
+        "ctx:{'type': 'exec', 'msg': '请学习并内化以下星巢系统知识文档：\\n\\n认知进阶的通用语法：五境辩证论——跨领域中的同构性规律发现\\n\\n摘"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:30:09.891695",
+      "quanzhong": 0.7,
+      "laiyuan": "renmai"
+    },
+    {
+      "biaoti": "经络归档·0510_2130",
+      "lingyu": "本源归档",
+      "yao_dian": [
+        "baji_shixu:26",
+        "wenti_chuangkou:0",
+        "xiufu_chuangkou:0",
+        "protocols_guodu:0",
+        "gongju_diaoyong:0"
+      ],
+      "chuangjian_shijian": "2026-05-10T21:30:09.952582",
+      "quanzhong": 1.0,
+      "laiyuan": "qiaomai"
     }
   ]
 }

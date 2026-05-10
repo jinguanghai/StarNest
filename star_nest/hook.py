@@ -8,8 +8,8 @@
    帮助:     星巢 --help
 """
 import sys, os, time, tempfile
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+os.chdir(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 HELP_TEXT = """星巢 (XingChao) — 通用问题解决操作系统 V2.0
 
@@ -49,7 +49,7 @@ try:
     time.sleep(4)
 except Exception as e:
     print(f"[星巢] 启动失败: {e}")
-    print("  检查: huanjing/.env 是否配置 DEEPSEEK_API_KEY")
+    print("  检查: star_nest/runtime/environment/.env 是否配置 DEEPSEEK_API_KEY")
     sys.exit(1)
 
 def chuli(msg, mode=None):
@@ -60,16 +60,17 @@ def chuli(msg, mode=None):
             try: q.get_nowait()
             except: pass
     s.yunxingti.xin.add_xuqiu(msg)
-    # 七律对时: 执行→一小周(49s), 缓冲→一微周(7s), 轮询→一刹那(1s)
     from star_nest.meridian.seven_laws import QiLv
     ql = QiLv()
     if getattr(s.yunxingti.xin, '_is_exec_cmd', False):
         timeout_s = ql.qu_zhouqi("yixiaozhou")  # 49s
         try: s.yunxingti.xin._is_exec_cmd = False
         except: pass
+    elif mode == 'deep':
+        timeout_s = max(ql.qu_zhouqi("yizhongzhou"), 120)  # 120s+ for deep feeding
     else:
         timeout_s = ql.qu_zhouqi("yiweizhou")   # 7s
-    step = ql.qu_zhouqi("yixi") or 1              # 1s 轮询间隔
+    step = ql.qu_zhouqi("yixi") or 1
     for _ in range(int(timeout_s / step)):
         time.sleep(step)
         for q in [s.yunxingti.xin.shuchu_duilie, s.bianchengti.xin.shuchu_duilie]:

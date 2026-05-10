@@ -86,7 +86,10 @@ def test_cli():
         from star_nest.entry import SanTiXiTong
         s = SanTiXiTong()
         s.bianchengti.start_all(); s.yunxingti.start_all()
-        time.sleep(3)
+        time.sleep(8)
+        # Warmup: send a no-op to ensure LLM connection is hot
+        _ = _do_test(s, "ping")  # discard result
+        time.sleep(2)
         
         scenes = [
             ("对话·你好", "你好", None, None),

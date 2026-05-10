@@ -7,7 +7,7 @@
 兼容: OpenAI /v1/chat/completions + /v1/models
 """
 import http.server, json, sys, os, threading, time, argparse, socket
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
 # 命令行参数

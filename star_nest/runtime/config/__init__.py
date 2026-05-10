@@ -39,9 +39,9 @@ ANQUAN_BAOHU = [
 ]
 
 def jiazai_huanjing():
-    env_path = XIANGMU_MULU / "huanjing" / ".env"
+    env_path = XIANGMU_MULU / "environment" / ".env"
     if not env_path.exists():
-        env_path = XINGCHAOZDD_MULU / "huanjing" / ".env"
+        env_path = XINGCHAOZDD_MULU / "environment" / ".env"
     if env_path.exists():
         with open(env_path, "r", encoding="utf-8") as f:
             for line in f:

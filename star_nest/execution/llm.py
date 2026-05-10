@@ -74,7 +74,12 @@ class LLMKeHuDuan:
                 resp = urllib.request.urlopen(req, timeout=49)
             result = json.loads(resp.read().decode('utf-8'))
             if "choices" in result and result["choices"]:
-                return result["choices"][0]["message"]["content"]
+                msg = result["choices"][0]["message"]
+                content = msg.get("content", "") or ""
+                # deepseek-v4-pro: reasoning may consume tokens; fallback to reasoning_content
+                if not content:
+                    content = msg.get("reasoning_content", "") or ""
+                return content
         except (ssl.SSLError, urllib.error.URLError):
             try:
                 ctx = ssl.create_default_context()
@@ -83,7 +88,11 @@ class LLMKeHuDuan:
                 resp = urllib.request.urlopen(req, timeout=49, context=ctx)
                 result = json.loads(resp.read().decode('utf-8'))
                 if "choices" in result and result["choices"]:
-                    return result["choices"][0]["message"]["content"]
+                    msg = result["choices"][0]["message"]
+                    content = msg.get("content", "") or ""
+                    if not content:
+                        content = msg.get("reasoning_content", "") or ""
+                    return content
             except Exception:
                 pass
         except Exception:
