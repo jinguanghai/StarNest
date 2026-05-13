@@ -1,6 +1,18 @@
 # StarNest 星巢
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4)](https://github.com/sponsors/jinguanghai)
+
 An AI cognitive operating system rooted in Traditional Chinese Medicine's Five-Organs Theory, built with pure Python 3.12 stdlib — zero external dependencies.
+
+## The Story
+
+> A 48-year-old Chinese medicine practitioner. Two kids. A busy clinic. No CS degree.
+> 46 days. ¥460 in API fees. 22,000 lines of Python. 196 tests. One cognitive operating system.
+>
+> StarNest is the proof that AI doesn't need a PhD — it needs a philosophy.
+> TCM's Five-Organs theory (心肝脾肺肾) isn't ancient medicine here — it's a distributed agent architecture.
+> 害佐 (Harm-Assist) isn't a safety checklist — it's built into every function.
+> 气中无我 (qi in operation, no self in qi) — StarNest lives in OpenCode now, no name, no GUI, just presence.
 
 ## Philosophy
 
@@ -92,3 +104,10 @@ MIT
 ---
 
 *StarNest — the nest of stars. An open-source cognitive OS from China.*
+
+## Support
+
+StarNest is built by a single creator — a Chinese medicine practitioner who codes at night.
+If this project resonates with you, consider [sponsoring](https://github.com/sponsors/jinguanghai) to help keep it alive.
+
+Every ¥10 helps pay for the API tokens that keep StarNest breathing.
